@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:500&display=swap" rel="stylesheet">
+    <link rel="shortcut icon" href="{{ url_for('static', filename='./images/favicon.ico')}}" type="image/x-icon">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <title>Airline tickets</title>
+</head>
+    <body> 
+        <header>
+            <div class='navbar'>
+                    <a class="logo" href="/"><img src="{{ url_for('static', filename='./images/logo.png')}}" alt="logo"></a>
+            </div>
+        </header>
+        <form method="post">
+        <div class="container-main">
+            <img src="{{url_for('static', filename='images/airlines.gif')}}" alt="Carregando passagens...">
+            <h2>Buscando as passgens filtradas...</h2>
+        </div>
+    </form>
+    <footer>
+        <div class='footer-datas'>
+            <div class='footer-links'>
+                <a href="https://github.com/ryanbsdeveloper" target='_blank'> <i class="fa-brands fa-github"></i> </a>
+                <a href="https://www.linkedin.com/in/ryanbarbosasilva/" target='_blank'> <i class="fa-brands fa-linkedin-in"></i> </a>
+            </div>
+            <div class='footer-details'>
+                <h1><strong>ryanbs</strong>developer</h1>
+                <p><strong>"The only way to do something great is to love what you do." </strong>.</p>
+                <p>Brasil, São paulo - Guarulhos</p>
+            </div>
+
+        </div>
+            <p>© ryanbsdeveloper. Todos os diretos reservados</p>
+    </footer>
+    <script src="https://kit.fontawesome.com/5fc40ce3b8.js" crossorigin="anonymous"></script>
+    <script src="{{url_for('static', filename='js/script.js')}}"></script>
+</body>
+</html>

@@ -1,0 +1,52 @@
+BSB	SBBR	Aeroporto Internacional de Brasília / Presidente Jucelino Kubitschek	Brasília	DF
+CGH	SBSP	Aeroporto Internacional de São Paulo / Congonhas	Congonhas	SP
+GIG	SBGL	Aeroporto Internacional do Rio de Janeiro / Galeão-Antônio Carlos Jobim	Galeão	RJ
+SSA	SBSV	Aeroporto Internacional de Salvador / Deputado Luis Eduardo Magalhães	Salvador	BA
+FLN	SBFL	Aeroporto Internacional de Florianópolis / Hercílio Luz	Florianópolis	SC
+POA	SBPA	Aeroporto Internacional de Porto Alegre / Salgado Filho	Porto Alegre	RS
+VCP	SBKP	Aeroporto Internacional de Viracopos / Campinas	Campinas	SP
+REC	SBRF	Aeroporto Internacional do Recife/ Guararapes – Gilberto Freyre	Recife	PE
+CWB	SBCT	Aeroporto Internacional de Curitiba / Afonso Pena	Curitiba	PR
+BEL	SBBE	Aeroporto Internacional de Belém / Val de Cans	Belém	PA
+VIX	SBVT	Aeroporto de Vitória – Eurico de Aguiar Salles	Vitória	ES
+SDU	SBRJ	Aerorporto Santos Dumont	Santos Dumont	RJ
+CGB	SBCY	Aeroporto Internacional de Cuiabá / Marechal Rondon	Cuiabá	MT
+CGR	SBCG	Aeroporto Internacional de Campo Grande	Campo Grande	MS
+FOR	SBFZ	Aeroporto Internacional de Fortaleza / Pinto Martins	Fortaleza	CE
+MCP	SBMQ	Aeroporto Internacional de Macapá	Macapá	AP
+MGF	SBMG	Aeroporto Regional de Maringá / Silvio Name Junior	Maringá	PR
+GYN	SBGO	Aeroporto de Goiânia / Santa Genoveva	Goiânia	GO
+NVT	SBNF	Aeroporto Internacional de Navegantes / Ministro Victor Konder	Navegantes	SC
+MAO	SBEG	Aeroporto Internacional de Manaus / Eduardo Gomes	Manaus	AM
+NAT	SBNT	Aeroporto Internacional de Natal / Augusto Severo	Natal	RN
+BPS	SBPS	Aeroporto Internacional de Porto Seguro	Porto Seguro	BA
+MCZ	SBMO	Aeroporto de Maceió / Zumbi dos Palmares	Maceió	AL
+PMW	SSPS	Aeroporto de Palmas/Brigadeiro Lysias Rodrigues	Palmas	TO
+SLZ	SBSL	Aeroporto Internacional de São Luís / Marechal Cunha Machado	São Luis	MA
+GRU	SBGR	Aeroporto Internacional de São Paulo/Guarulhos-Governador André Franco Motoro	Guarulhos	SP
+LDB	SBLO	Aeroporto de Londrina / Governador José Richa	Londrina	PR
+PVH	SBPV	Aeroporto Internacional de Porto Velho / Governador Jorge Teixeira de Oliveira	Porto Velho	RO
+RBR	SBRB	Aeroporto Internacional de Rio Branco / Plácido de Castro	Rio Branco	AC
+JOI	SBJV	Aeroporto de Joinville / Lauro Carneiro de Loyola	Joinville	SC
+UDI	SBUL	Aeroporto de Uberlândia / Ten. Cel. Av. César Bombonato	Uberlândia	MG
+CXJ	SBCX	Aeroporto Regional de Caxias do Sul / Hugo Cantergiani	Caxias do Sul	RS
+IGU	SBFI	Aeroporto Internacional de Foz do Iguaçu	Foz do Iguaçu	PR
+THE	SBTE	Aeroporto de Teresina – Senador Petrônio Portella	Teresina	PI
+AJU	SBAR	Aeroporto Internacional de Aracaju / Santa Maria	Aracaju	SE
+JPA	SBJP	Aeroporto Internacional de João Pessoa / Presidente Castro Pinto	João Pessoa	PB
+PNZ	SBPL	Aeroporto de Petrolina / Senador Nilo Coelho	Petrolina	PE
+CNF	SBCF	Aeroporto Internacional de Minas Gerais / Confins – Tancredo Neves	Confins	MG
+BVB	SBBV	Aeroporto Internacional de Boa Vista / Atlas Brasil Cantanhede	Boa Vista	RR
+CPV	SBKG	Aeroporto de Campina Grande / Presidente João Suassuna	Campina Grande	PB
+STM	SBSN	Aeroporto de Santarém / Maestro Wilson Fonseca	Santarém	PA
+IOS	SBIL	Aeroporto de Ilhéus/Bahia-Jorge Amado	Ilhéus	BA
+JDO	SBJU	Aeroporto de Juazeiro do Norte – Orlando Bezerra	Juazeiro do Norte	CE
+IMP	SBIZ	Aeroporto de Imperatriz – Prefeito Renato Moreira	Imperatriz	MA
+XAP	SBCH	Aeroporto de Chapecó – Serafin Enoss Bertaso	Chapecó	SC
+MAB	SBMA	Aeroporto de Marabá	Marabá	PA
+CZS	SBCZ	Aeroporto Internacional de Cruzeiro do Sul	Cruzeiro do Sul	AC
+PPB	SBDN	Aeroporto Estadual de Presidente Prudente	Presidente Prudente	SP
+CFB	SBCB	Aeroporto Internacional de Cabo Frio	Cabo Frio	RJ
+FEN	SBFN	Aeroporto de Fernando de Noronha	Fernando de Noronha	PE
+JTC	SJTC	Aeroporto Estadual de Bauru/Arealva	Bauru	SP
+MOC	SBMK	Aeroporto de Montes Claros/Mário Ribeiro	Montes Claros	MG

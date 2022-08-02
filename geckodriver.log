@@ -1,0 +1,1949 @@
+1659422455282	geckodriver	INFO	Listening on 127.0.0.1:42799
+1659422455687	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "40687" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilehMoIEQ"
+Gtk-Message: 03:40:55.783: Failed to load module "canberra-gtk-module"
+Gtk-Message: 03:40:55.788: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1659422456622	Marionette	INFO	Marionette enabled
+1659422456626	Marionette	INFO	Listening on port 33151
+WebDriver BiDi listening on ws://localhost:40687
+Read port: 33151
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659422456779	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehMoIEQ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:40687/devtools/browser/5081cb5d-e7ba-4f55-89e2-fe9507e44ffe
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4JAIKwid8f35vx5JMDPHWQJTURDOey7UpTPwaznZUPM.js line 2 > eval line 7034 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659422472391	Marionette	INFO	Stopped listening on port 33151
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1659422503143	geckodriver	INFO	Listening on 127.0.0.1:60731
+1659422503574	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "58695" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJBnoPF"
+Gtk-Message: 03:41:43.649: Failed to load module "canberra-gtk-module"
+Gtk-Message: 03:41:43.651: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1659422504233	Marionette	INFO	Marionette enabled
+1659422504236	Marionette	INFO	Listening on port 39987
+WebDriver BiDi listening on ws://localhost:58695
+Read port: 39987
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659422504357	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJBnoPF/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:58695/devtools/browser/5c5c008d-96c8-4f8e-8720-c915b87683c8
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4JAIKwid8f35vx5JMDPHWQJTURDOey7UpTPwaznZUPM.js line 2 > eval line 4383 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659422935096	Marionette	INFO	Stopped listening on port 39987
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659423005163	geckodriver	INFO	Listening on 127.0.0.1:44263
+1659423005597	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "42763" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileoQAClj"
+Gtk-Message: 03:50:05.672: Failed to load module "canberra-gtk-module"
+Gtk-Message: 03:50:05.673: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1659423006308	Marionette	INFO	Marionette enabled
+1659423006312	Marionette	INFO	Listening on port 34809
+WebDriver BiDi listening on ws://localhost:42763
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 34809
+1659423006555	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoQAClj/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:42763/devtools/browser/e541b4a4-9622-4314-ab6e-e5b86996f7f4
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4JAIKwid8f35vx5JMDPHWQJTURDOey7UpTPwaznZUPM.js line 2 > eval line 4629 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659423017787	Marionette	INFO	Stopped listening on port 34809
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1659423027774	geckodriver	INFO	Listening on 127.0.0.1:58981
+1659423028210	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "43717" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNbBwON"
+Gtk-Message: 03:50:28.288: Failed to load module "canberra-gtk-module"
+Gtk-Message: 03:50:28.289: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1659423028864	Marionette	INFO	Marionette enabled
+1659423028867	Marionette	INFO	Listening on port 41783
+WebDriver BiDi listening on ws://localhost:43717
+Read port: 41783
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659423028980	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNbBwON/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:43717/devtools/browser/2cc088bf-fbb2-4de1-83fb-f9a9c9b7c9e7
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4JAIKwid8f35vx5JMDPHWQJTURDOey7UpTPwaznZUPM.js line 2 > eval line 88 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659423065741	geckodriver	INFO	Listening on 127.0.0.1:47587
+1659423066183	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "58703" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCytuMu"
+Gtk-Message: 03:51:06.258: Failed to load module "canberra-gtk-module"
+Gtk-Message: 03:51:06.260: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1659423066835	Marionette	INFO	Marionette enabled
+1659423066838	Marionette	INFO	Listening on port 38235
+WebDriver BiDi listening on ws://localhost:58703
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 38235
+1659423066950	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCytuMu/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:58703/devtools/browser/8f422810-5807-474d-955c-f13bd263e4cd
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4JAIKwid8f35vx5JMDPHWQJTURDOey7UpTPwaznZUPM.js line 2 > eval line 3224 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659423217568	geckodriver	INFO	Listening on 127.0.0.1:55201
+1659423217994	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "34609" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevEkx7A"
+Gtk-Message: 03:53:38.075: Failed to load module "canberra-gtk-module"
+Gtk-Message: 03:53:38.076: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1659423218649	Marionette	INFO	Marionette enabled
+1659423218653	Marionette	INFO	Listening on port 44939
+WebDriver BiDi listening on ws://localhost:34609
+Read port: 44939
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659423218813	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevEkx7A/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:34609/devtools/browser/d78f197a-ba07-4f78-9af0-21ba70eb19a1
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4JAIKwid8f35vx5JMDPHWQJTURDOey7UpTPwaznZUPM.js line 2 > eval line 1825 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659423238555	Marionette	INFO	Stopped listening on port 41783
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659423241137	Marionette	INFO	Stopped listening on port 44939
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659423244251	Marionette	INFO	Stopped listening on port 38235
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1659423255518	geckodriver	INFO	Listening on 127.0.0.1:48029
+1659423255911	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "58615" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezz2ymy"
+Gtk-Message: 03:54:15.985: Failed to load module "canberra-gtk-module"
+Gtk-Message: 03:54:15.986: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1659423256550	Marionette	INFO	Marionette enabled
+1659423256554	Marionette	INFO	Listening on port 46831
+WebDriver BiDi listening on ws://localhost:58615
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 46831
+1659423256667	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezz2ymy/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:58615/devtools/browser/341635f4-832a-4819-826c-5fd3eee76d37
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4JAIKwid8f35vx5JMDPHWQJTURDOey7UpTPwaznZUPM.js line 2 > eval line 4616 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659423349489	Marionette	INFO	Stopped listening on port 46831
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659423388569	geckodriver	INFO	Listening on 127.0.0.1:38249
+1659423389005	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "40879" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerR2amP"
+Gtk-Message: 03:56:29.088: Failed to load module "canberra-gtk-module"
+Gtk-Message: 03:56:29.089: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1659423389681	Marionette	INFO	Marionette enabled
+1659423389684	Marionette	INFO	Listening on port 44943
+WebDriver BiDi listening on ws://localhost:40879
+Read port: 44943
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659423389822	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerR2amP/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:40879/devtools/browser/05e05eec-b926-448b-a7de-aa06e4da8dbd
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4JAIKwid8f35vx5JMDPHWQJTURDOey7UpTPwaznZUPM.js line 2 > eval line 1617 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659423428139	geckodriver	INFO	Listening on 127.0.0.1:52935
+1659423428568	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "34291" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile03gSAo"
+Gtk-Message: 03:57:08.644: Failed to load module "canberra-gtk-module"
+Gtk-Message: 03:57:08.645: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1659423429223	Marionette	INFO	Marionette enabled
+1659423429227	Marionette	INFO	Listening on port 33677
+WebDriver BiDi listening on ws://localhost:34291
+Read port: 33677
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659423429338	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile03gSAo/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:34291/devtools/browser/6e80957d-eab8-402f-9007-9d109414b9f2
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4JAIKwid8f35vx5JMDPHWQJTURDOey7UpTPwaznZUPM.js line 2 > eval line 2009 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659423614595	Marionette	INFO	Stopped listening on port 33677
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659423769441	geckodriver	INFO	Listening on 127.0.0.1:47039
+1659423769869	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "57453" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6d4d1M"
+Gtk-Message: 04:02:49.954: Failed to load module "canberra-gtk-module"
+Gtk-Message: 04:02:49.956: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1659423770545	Marionette	INFO	Marionette enabled
+1659423770549	Marionette	INFO	Listening on port 33351
+WebDriver BiDi listening on ws://localhost:57453
+Read port: 33351
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659423770708	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6d4d1M/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:57453/devtools/browser/c59fc693-083e-40df-9357-90a92dd98151
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 546 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659423794536	Marionette	INFO	Stopped listening on port 33351
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659423965830	geckodriver	INFO	Listening on 127.0.0.1:52655
+1659423966266	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "49389" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilehHdGFJ"
+Gtk-Message: 04:06:06.340: Failed to load module "canberra-gtk-module"
+Gtk-Message: 04:06:06.341: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1659423966912	Marionette	INFO	Marionette enabled
+1659423966917	Marionette	INFO	Listening on port 45019
+WebDriver BiDi listening on ws://localhost:49389
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 45019
+1659423967055	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehHdGFJ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:49389/devtools/browser/18f230ce-3558-44f5-b00d-e211c4f67db9
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 7167 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659424007702	Marionette	INFO	Stopped listening on port 45019
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659424030085	Marionette	INFO	Stopped listening on port 44943
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659424056609	geckodriver	INFO	Listening on 127.0.0.1:39945
+1659424057038	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "51919" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilec8afdO"
+Gtk-Message: 04:07:37.113: Failed to load module "canberra-gtk-module"
+Gtk-Message: 04:07:37.115: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1659424057693	Marionette	INFO	Marionette enabled
+1659424057697	Marionette	INFO	Listening on port 46437
+WebDriver BiDi listening on ws://localhost:51919
+Read port: 46437
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659424057832	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilec8afdO/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:51919/devtools/browser/d9e1906a-f076-46e0-819c-b800e0c4cb3b
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 769))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 421))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 4111 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659424150618	geckodriver	INFO	Listening on 127.0.0.1:53489
+1659424151042	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "46397" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3UTSgw"
+Gtk-Message: 04:09:11.120: Failed to load module "canberra-gtk-module"
+Gtk-Message: 04:09:11.121: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1659424151686	Marionette	INFO	Marionette enabled
+1659424151689	Marionette	INFO	Listening on port 38053
+WebDriver BiDi listening on ws://localhost:46397
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 38053
+1659424151807	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3UTSgw/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:46397/devtools/browser/97bbc0ef-49ab-46cd-9bf6-fdbece54477e
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 2556 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659424246016	geckodriver	INFO	Listening on 127.0.0.1:43851
+1659424246454	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "57169" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2zQ2t7"
+Gtk-Message: 04:10:46.528: Failed to load module "canberra-gtk-module"
+Gtk-Message: 04:10:46.530: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1659424247095	Marionette	INFO	Marionette enabled
+1659424247098	Marionette	INFO	Listening on port 33899
+WebDriver BiDi listening on ws://localhost:57169
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 33899
+1659424247208	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2zQ2t7/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:57169/devtools/browser/d2d45063-a4bd-4f4b-9caa-a65eefff0aa3
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 4197 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659424297041	Marionette	INFO	Stopped listening on port 38053
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659424300064	Marionette	INFO	Stopped listening on port 33899
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1659424410214	geckodriver	INFO	Listening on 127.0.0.1:47885
+1659424410638	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "52567" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegTLnJl"
+Gtk-Message: 04:13:30.714: Failed to load module "canberra-gtk-module"
+Gtk-Message: 04:13:30.716: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1659424411288	Marionette	INFO	Marionette enabled
+1659424411292	Marionette	INFO	Listening on port 46195
+WebDriver BiDi listening on ws://localhost:52567
+Read port: 46195
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659424411431	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegTLnJl/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:52567/devtools/browser/cfa776c8-35fb-47dc-8d16-955e2ed8b218
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 769))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 421))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 5645 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659424473065	geckodriver	INFO	Listening on 127.0.0.1:41369
+1659424473502	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "37413" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNI6OEz"
+Gtk-Message: 04:14:33.580: Failed to load module "canberra-gtk-module"
+Gtk-Message: 04:14:33.581: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1659424474140	Marionette	INFO	Marionette enabled
+1659424474143	Marionette	INFO	Listening on port 39985
+WebDriver BiDi listening on ws://localhost:37413
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 39985
+1659424474263	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNI6OEz/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:37413/devtools/browser/8c58bb84-9386-40c5-a7d2-8e374b7d32a2
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 2525 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659424496696	Marionette	INFO	Stopped listening on port 46195
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659424498599	Marionette	INFO	Stopped listening on port 39985
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659425037846	Marionette	INFO	Stopped listening on port 46437
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659426064871	geckodriver	INFO	Listening on 127.0.0.1:37627
+1659426065300	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "33637" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3tXiO8"
+Gtk-Message: 04:41:05.375: Failed to load module "canberra-gtk-module"
+Gtk-Message: 04:41:05.377: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1659426065952	Marionette	INFO	Marionette enabled
+1659426065956	Marionette	INFO	Listening on port 44955
+WebDriver BiDi listening on ws://localhost:33637
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 44955
+1659426066097	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3tXiO8/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:33637/devtools/browser/bdc0dd50-65e7-452c-b53c-d9fdcf7df0f2
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 6983 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659426142984	geckodriver	INFO	Listening on 127.0.0.1:56167
+1659426143426	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "49813" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGPO2Yq"
+Gtk-Message: 04:42:23.504: Failed to load module "canberra-gtk-module"
+Gtk-Message: 04:42:23.505: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1659426144070	Marionette	INFO	Marionette enabled
+1659426144074	Marionette	INFO	Listening on port 39433
+WebDriver BiDi listening on ws://localhost:49813
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 39433
+1659426144203	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGPO2Yq/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:49813/devtools/browser/ca1334e7-c829-42b3-8901-6a1ec5855190
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 1703 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659426178382	geckodriver	INFO	Listening on 127.0.0.1:47825
+1659426178813	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "58831" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDILzyh"
+Gtk-Message: 04:42:58.891: Failed to load module "canberra-gtk-module"
+Gtk-Message: 04:42:58.893: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1659426179495	Marionette	INFO	Marionette enabled
+1659426179499	Marionette	INFO	Listening on port 45661
+WebDriver BiDi listening on ws://localhost:58831
+Read port: 45661
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659426179623	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDILzyh/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:58831/devtools/browser/5acf5f62-eb44-4803-92c5-d9bb14c6ac10
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 7441 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659426215687	geckodriver	INFO	Listening on 127.0.0.1:37763
+1659426216118	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "36171" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXpOum3"
+Gtk-Message: 04:43:36.191: Failed to load module "canberra-gtk-module"
+Gtk-Message: 04:43:36.193: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1659426216760	Marionette	INFO	Marionette enabled
+1659426216763	Marionette	INFO	Listening on port 43835
+WebDriver BiDi listening on ws://localhost:36171
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 43835
+1659426216903	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXpOum3/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:36171/devtools/browser/06c932c7-6a4d-489a-a91a-094191e1d675
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659426229036	Marionette	INFO	Stopped listening on port 39433
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659426230480	Marionette	INFO	Stopped listening on port 45661
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659426232009	Marionette	INFO	Stopped listening on port 44955
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 4597 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659426258645	Marionette	INFO	Stopped listening on port 43835
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1659426327759	geckodriver	INFO	Listening on 127.0.0.1:33813
+1659426328065	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "49911" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0nmvWC"
+Gtk-Message: 04:45:28.141: Failed to load module "canberra-gtk-module"
+Gtk-Message: 04:45:28.143: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1659426328722	Marionette	INFO	Marionette enabled
+1659426328725	Marionette	INFO	Listening on port 38955
+WebDriver BiDi listening on ws://localhost:49911
+Read port: 38955
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659426328865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0nmvWC/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:49911/devtools/browser/be1ddc5d-e62c-43fd-ba3b-57331cb1e3e3
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 6819 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659426385630	geckodriver	INFO	Listening on 127.0.0.1:47287
+1659426386073	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "44987" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefXwrdb"
+Gtk-Message: 04:46:26.147: Failed to load module "canberra-gtk-module"
+Gtk-Message: 04:46:26.150: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1659426386728	Marionette	INFO	Marionette enabled
+1659426386733	Marionette	INFO	Listening on port 32843
+WebDriver BiDi listening on ws://localhost:44987
+Read port: 32843
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659426386846	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefXwrdb/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:44987/devtools/browser/35f105c3-f7b1-4cf9-8563-db8f3ebb8ed2
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 929 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659426750802	geckodriver	INFO	Listening on 127.0.0.1:50009
+1659426751246	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "44185" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3VNY8J"
+Gtk-Message: 04:52:31.326: Failed to load module "canberra-gtk-module"
+Gtk-Message: 04:52:31.328: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1659426751963	Marionette	INFO	Marionette enabled
+1659426751966	Marionette	INFO	Listening on port 46517
+WebDriver BiDi listening on ws://localhost:44185
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 46517
+1659426752119	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3VNY8J/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:44185/devtools/browser/840ebadd-d5a8-455f-945f-f48fd000a7ab
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 4687 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659426772870	Marionette	INFO	Stopped listening on port 46517
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1659426870277	geckodriver	INFO	Listening on 127.0.0.1:33265
+1659426870701	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "54971" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileEM3qQI"
+Gtk-Message: 04:54:30.777: Failed to load module "canberra-gtk-module"
+Gtk-Message: 04:54:30.778: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1659426871320	Marionette	INFO	Marionette enabled
+1659426871322	Marionette	INFO	Listening on port 44879
+WebDriver BiDi listening on ws://localhost:54971
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 44879
+1659426871509	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEM3qQI/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:54971/devtools/browser/a2a189cb-a1d6-41ca-ac69-c60132bca7e6
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 3823 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659426886862	Marionette	INFO	Stopped listening on port 44879
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1659427128503	geckodriver	INFO	Listening on 127.0.0.1:34359
+1659427128917	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "34515" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVT51mo"
+Gtk-Message: 04:58:48.991: Failed to load module "canberra-gtk-module"
+Gtk-Message: 04:58:48.993: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1659427129582	Marionette	INFO	Marionette enabled
+1659427129585	Marionette	INFO	Listening on port 42233
+WebDriver BiDi listening on ws://localhost:34515
+Read port: 42233
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659427129727	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVT51mo/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:34515/devtools/browser/ab746497-c5ad-4048-8650-3143be33c853
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+1659427142098	geckodriver	INFO	Listening on 127.0.0.1:47011
+1659427142546	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "58031" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDZ5UVS"
+Gtk-Message: 04:59:02.625: Failed to load module "canberra-gtk-module"
+Gtk-Message: 04:59:02.627: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1659427143209	Marionette	INFO	Marionette enabled
+1659427143212	Marionette	INFO	Listening on port 35849
+WebDriver BiDi listening on ws://localhost:58031
+Read port: 35849
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659427143325	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDZ5UVS/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:58031/devtools/browser/cd7efbd7-f53f-428b-91ea-f67806c1823c
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 2348 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659427170664	geckodriver	INFO	Listening on 127.0.0.1:39743
+1659427171081	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "60409" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileADnqDU"
+Gtk-Message: 04:59:31.160: Failed to load module "canberra-gtk-module"
+Gtk-Message: 04:59:31.162: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1659427171725	Marionette	INFO	Marionette enabled
+1659427171727	Marionette	INFO	Listening on port 44821
+WebDriver BiDi listening on ws://localhost:60409
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 44821
+1659427171856	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+1659427185891	geckodriver	INFO	Listening on 127.0.0.1:60573
+1659427186330	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "39395" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegy3ea6"
+Gtk-Message: 04:59:46.409: Failed to load module "canberra-gtk-module"
+Gtk-Message: 04:59:46.410: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1659427186994	Marionette	INFO	Marionette enabled
+1659427186997	Marionette	INFO	Listening on port 44153
+WebDriver BiDi listening on ws://localhost:39395
+Read port: 44153
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659427187120	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegy3ea6/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:39395/devtools/browser/800b5fb5-c232-41f0-8c64-ae3fac71cf80
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 4733 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659427214088	geckodriver	INFO	Listening on 127.0.0.1:42035
+1659427214356	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "57585" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesBpAtB"
+Gtk-Message: 05:00:14.432: Failed to load module "canberra-gtk-module"
+Gtk-Message: 05:00:14.433: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1659427215020	Marionette	INFO	Marionette enabled
+1659427215024	Marionette	INFO	Listening on port 44747
+WebDriver BiDi listening on ws://localhost:57585
+Read port: 44747
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659427215132	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesBpAtB/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:57585/devtools/browser/2ef4e084-50c5-4dbe-96b0-c4f4af934ae9
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 120 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659427523756	geckodriver	INFO	Listening on 127.0.0.1:58523
+1659427524096	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "53685" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHYY1mT"
+Gtk-Message: 05:05:24.173: Failed to load module "canberra-gtk-module"
+Gtk-Message: 05:05:24.174: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1659427524760	Marionette	INFO	Marionette enabled
+1659427524763	Marionette	INFO	Listening on port 40155
+WebDriver BiDi listening on ws://localhost:53685
+Read port: 40155
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659427524872	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHYY1mT/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:53685/devtools/browser/ccbdd048-ae87-4100-8ecd-d2fb30ee9054
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 3116 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659427621315	geckodriver	INFO	Listening on 127.0.0.1:55057
+1659427621758	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "55757" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDDnACx"
+Gtk-Message: 05:07:01.838: Failed to load module "canberra-gtk-module"
+Gtk-Message: 05:07:01.839: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1659427622381	Marionette	INFO	Marionette enabled
+1659427622384	Marionette	INFO	Listening on port 39931
+WebDriver BiDi listening on ws://localhost:55757
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 39931
+1659427622612	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDDnACx/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:55757/devtools/browser/b5e713ee-4ed3-45b2-b8de-534288aa0542
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 4101 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659427866577	geckodriver	INFO	Listening on 127.0.0.1:36531
+1659427866846	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "40577" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRJDn2b"
+Gtk-Message: 05:11:06.923: Failed to load module "canberra-gtk-module"
+Gtk-Message: 05:11:06.925: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1659427867517	Marionette	INFO	Marionette enabled
+1659427867521	Marionette	INFO	Listening on port 46237
+WebDriver BiDi listening on ws://localhost:40577
+Read port: 46237
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659427867661	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRJDn2b/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:40577/devtools/browser/6d6b03f6-382e-410f-9168-5c482b142d12
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 2914 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659428058435	geckodriver	INFO	Listening on 127.0.0.1:33795
+1659428059020	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "38761" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFkewF5"
+Gtk-Message: 05:14:19.107: Failed to load module "canberra-gtk-module"
+Gtk-Message: 05:14:19.111: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1659428059727	Marionette	INFO	Marionette enabled
+1659428059730	Marionette	INFO	Listening on port 37877
+WebDriver BiDi listening on ws://localhost:38761
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 37877
+1659428059935	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFkewF5/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:38761/devtools/browser/8808f9b5-40d6-497c-aa8a-f8d41b24ad65
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 1591 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659428163738	geckodriver	INFO	Listening on 127.0.0.1:54923
+1659428164328	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "45775" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKRvQxk"
+Gtk-Message: 05:16:04.418: Failed to load module "canberra-gtk-module"
+Gtk-Message: 05:16:04.474: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1659428166040	Marionette	INFO	Marionette enabled
+1659428166045	Marionette	INFO	Listening on port 41195
+WebDriver BiDi listening on ws://localhost:45775
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 41195
+1659428166225	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKRvQxk/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:45775/devtools/browser/9696069d-105d-4a23-97e0-1b4ef49b7d85
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 3445 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659428305073	geckodriver	INFO	Listening on 127.0.0.1:44327
+1659428305459	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "35713" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileX6oFKP"
+Gtk-Message: 05:18:25.542: Failed to load module "canberra-gtk-module"
+Gtk-Message: 05:18:25.544: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1659428306131	Marionette	INFO	Marionette enabled
+1659428306135	Marionette	INFO	Listening on port 35913
+WebDriver BiDi listening on ws://localhost:35713
+Read port: 35913
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659428306250	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileX6oFKP/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:35713/devtools/browser/ea23bb90-9fc4-46fc-bc76-1bf1814be656
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 7741 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659428329128	Marionette	INFO	Stopped listening on port 35849
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659428333174	Marionette	INFO	Stopped listening on port 44153
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659428336587	Marionette	INFO	Stopped listening on port 44747
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659428337953	Marionette	INFO	Stopped listening on port 40155
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659428341172	Marionette	INFO	Stopped listening on port 46237
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659428343259	Marionette	INFO	Stopped listening on port 37877
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659428347407	Marionette	INFO	Stopped listening on port 39931
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659428350766	Marionette	INFO	Stopped listening on port 35913
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659428353157	Marionette	INFO	Stopped listening on port 38955
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659428355310	Marionette	INFO	Stopped listening on port 32843
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659428356990	Marionette	INFO	Stopped listening on port 41195
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659428360162	geckodriver	INFO	Listening on 127.0.0.1:57569
+1659428360331	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "39395" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileEZKSPy"
+Gtk-Message: 05:19:20.413: Failed to load module "canberra-gtk-module"
+Gtk-Message: 05:19:20.416: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1659428361012	Marionette	INFO	Marionette enabled
+1659428361015	Marionette	INFO	Listening on port 46263
+WebDriver BiDi listening on ws://localhost:39395
+Read port: 46263
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659428361155	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEZKSPy/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:39395/devtools/browser/188eb7fb-69e2-47fe-a6ae-40219b0d1345
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 6219 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659428417358	geckodriver	INFO	Listening on 127.0.0.1:38855
+1659428417782	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "44051" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevlN8ST"
+Gtk-Message: 05:20:17.869: Failed to load module "canberra-gtk-module"
+Gtk-Message: 05:20:17.870: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1659428418444	Marionette	INFO	Marionette enabled
+1659428418448	Marionette	INFO	Listening on port 41381
+WebDriver BiDi listening on ws://localhost:44051
+Read port: 41381
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659428418559	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevlN8ST/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:44051/devtools/browser/c6a75b3d-bb2e-4350-801c-6102ba2a3a85
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 2107 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659428460905	geckodriver	INFO	Listening on 127.0.0.1:33489
+1659428461345	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "56019" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSlC9AO"
+Gtk-Message: 05:21:01.430: Failed to load module "canberra-gtk-module"
+Gtk-Message: 05:21:01.431: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1659428462006	Marionette	INFO	Marionette enabled
+1659428462009	Marionette	INFO	Listening on port 42813
+WebDriver BiDi listening on ws://localhost:56019
+Read port: 42813
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659428462103	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSlC9AO/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:56019/devtools/browser/faea0ae2-4d2b-426b-b12b-bec612d4d0d3
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 7752 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659428492355	geckodriver	INFO	Listening on 127.0.0.1:58679
+1659428492773	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "58247" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHaPony"
+Gtk-Message: 05:21:32.846: Failed to load module "canberra-gtk-module"
+Gtk-Message: 05:21:32.848: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1659428493443	Marionette	INFO	Marionette enabled
+1659428493447	Marionette	INFO	Listening on port 34291
+WebDriver BiDi listening on ws://localhost:58247
+Read port: 34291
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659428493596	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHaPony/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:58247/devtools/browser/dabf3d6d-97de-45ee-8379-a7add1a75875
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 5666 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659428796364	geckodriver	INFO	Listening on 127.0.0.1:41583
+1659428796791	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "44557" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejZQnfJ"
+Gtk-Message: 05:26:36.866: Failed to load module "canberra-gtk-module"
+Gtk-Message: 05:26:36.867: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1659428797461	Marionette	INFO	Marionette enabled
+1659428797465	Marionette	INFO	Listening on port 35993
+WebDriver BiDi listening on ws://localhost:44557
+Read port: 35993
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659428797616	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejZQnfJ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:44557/devtools/browser/5b18004c-4154-437b-8d67-dc6039e7b505
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 1389 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659428936969	geckodriver	INFO	Listening on 127.0.0.1:51133
+1659428937406	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "53463" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezNSJow"
+Gtk-Message: 05:28:57.478: Failed to load module "canberra-gtk-module"
+Gtk-Message: 05:28:57.480: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1659428938053	Marionette	INFO	Marionette enabled
+1659428938057	Marionette	INFO	Listening on port 45385
+WebDriver BiDi listening on ws://localhost:53463
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 45385
+1659428938189	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezNSJow/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:53463/devtools/browser/56ddd463-47eb-411b-9f88-6c6c844fb0c5
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 753 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659429003228	geckodriver	INFO	Listening on 127.0.0.1:34101
+1659429003661	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "48705" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFuyGXW"
+Gtk-Message: 05:30:03.741: Failed to load module "canberra-gtk-module"
+Gtk-Message: 05:30:03.742: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1659429004315	Marionette	INFO	Marionette enabled
+1659429004320	Marionette	INFO	Listening on port 43789
+WebDriver BiDi listening on ws://localhost:48705
+Read port: 43789
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659429004478	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFuyGXW/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:48705/devtools/browser/6cc33e16-f28e-45d1-9ec5-d6cf8c3056f0
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 5211 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659429043286	Marionette	INFO	Stopped listening on port 41381
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659429044711	Marionette	INFO	Stopped listening on port 34291
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659429046226	Marionette	INFO	Stopped listening on port 45385
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659429047765	Marionette	INFO	Stopped listening on port 43789
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659429049496	Marionette	INFO	Stopped listening on port 35993
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659429050864	Marionette	INFO	Stopped listening on port 46263
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659429052527	Marionette	INFO	Stopped listening on port 42813
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1659429408171	geckodriver	INFO	Listening on 127.0.0.1:60587
+1659429408601	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "36441" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile25EsyG"
+*** You are running in headless mode.
+1659429408909	Marionette	INFO	Marionette enabled
+1659429408912	Marionette	INFO	Listening on port 46027
+WebDriver BiDi listening on ws://localhost:36441
+Read port: 46027
+1659429409183	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile25EsyG/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:36441/devtools/browser/4f4b1f6b-d205-4dec-a8e9-e55f0db4b407
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 5741 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659431296870	geckodriver	INFO	Listening on 127.0.0.1:56561
+1659431297321	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "39057" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZvBjlT"
+*** You are running in headless mode.
+1659431297571	Marionette	INFO	Marionette enabled
+1659431297575	Marionette	INFO	Listening on port 42475
+WebDriver BiDi listening on ws://localhost:39057
+Read port: 42475
+1659431297663	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZvBjlT/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:39057/devtools/browser/4bb52531-51b1-4589-80b2-0212b655cc2d
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 2633 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659431323854	geckodriver	INFO	Listening on 127.0.0.1:52115
+1659431324312	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "34735" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileteyzv1"
+*** You are running in headless mode.
+1659431324557	Marionette	INFO	Marionette enabled
+1659431324560	Marionette	INFO	Listening on port 33293
+WebDriver BiDi listening on ws://localhost:34735
+Read port: 33293
+1659431324715	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileteyzv1/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:34735/devtools/browser/5d7b155c-5296-4d73-9fa3-ee79482fe9d6
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 7810 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659431342069	geckodriver	INFO	Listening on 127.0.0.1:45265
+1659431342523	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "34685" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileADxrWH"
+*** You are running in headless mode.
+1659431342769	Marionette	INFO	Marionette enabled
+1659431342772	Marionette	INFO	Listening on port 32791
+WebDriver BiDi listening on ws://localhost:34685
+Read port: 32791
+1659431342927	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileADxrWH/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:34685/devtools/browser/a871bbc9-9ec6-44c6-8b47-57a9be0b62fb
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 1423 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659431398498	geckodriver	INFO	Listening on 127.0.0.1:38073
+1659431398940	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "46801" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4d3V5X"
+*** You are running in headless mode.
+1659431399181	Marionette	INFO	Marionette enabled
+1659431399184	Marionette	INFO	Listening on port 46485
+WebDriver BiDi listening on ws://localhost:46801
+Read port: 46485
+1659431399349	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4d3V5X/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:46801/devtools/browser/8d36eecc-63ea-4c0c-84d8-d81b6f9f353a
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+1659431461494	geckodriver	INFO	Listening on 127.0.0.1:34921
+1659431461948	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "51317" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQUCgHt"
+*** You are running in headless mode.
+1659431462193	Marionette	INFO	Marionette enabled
+1659431462196	Marionette	INFO	Listening on port 41399
+WebDriver BiDi listening on ws://localhost:51317
+Read port: 41399
+1659431462356	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQUCgHt/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:51317/devtools/browser/cda7cfea-8c90-45b2-a620-6225812df11f
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 1090 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659431519429	geckodriver	INFO	Listening on 127.0.0.1:40967
+1659431519884	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "38185" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegHz45d"
+*** You are running in headless mode.
+1659431520130	Marionette	INFO	Marionette enabled
+1659431520133	Marionette	INFO	Listening on port 37707
+WebDriver BiDi listening on ws://localhost:38185
+Read port: 37707
+1659431520247	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegHz45d/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:38185/devtools/browser/6755c75d-b0e8-4e13-a2d2-35c99986a787
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 639 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659431544906	geckodriver	INFO	Listening on 127.0.0.1:56731
+1659431545256	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "46831" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilehrXht9"
+Gtk-Message: 06:12:25.330: Failed to load module "canberra-gtk-module"
+Gtk-Message: 06:12:25.332: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1659431545852	Marionette	INFO	Marionette enabled
+1659431545855	Marionette	INFO	Listening on port 39097
+Read port: 39097
+WebDriver BiDi listening on ws://localhost:46831
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659431545994	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehrXht9/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:46831/devtools/browser/f161a862-5cb7-4932-8d69-c34042d59556
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 2259 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659431585748	geckodriver	INFO	Listening on 127.0.0.1:44089
+1659431586043	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "50791" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileu1Q8aW"
+Gtk-Message: 06:13:06.109: Failed to load module "canberra-gtk-module"
+Gtk-Message: 06:13:06.110: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1659431586632	Marionette	INFO	Marionette enabled
+1659431586635	Marionette	INFO	Listening on port 35509
+WebDriver BiDi listening on ws://localhost:50791
+Read port: 35509
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659431586747	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileu1Q8aW/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:50791/devtools/browser/5161da1d-8dad-4b65-ab92-18cb29c35406
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 4754 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659431624066	geckodriver	INFO	Listening on 127.0.0.1:48437
+1659431624492	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "37967" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9vpWbD"
+Gtk-Message: 06:13:44.561: Failed to load module "canberra-gtk-module"
+Gtk-Message: 06:13:44.562: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1659431625078	Marionette	INFO	Marionette enabled
+1659431625081	Marionette	INFO	Listening on port 35225
+WebDriver BiDi listening on ws://localhost:37967
+Read port: 35225
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659431625195	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9vpWbD/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:37967/devtools/browser/18edefd4-c6fe-4d58-9cd1-4a74ff8df43f
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 1129 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659431649267	Marionette	INFO	Stopped listening on port 35225
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659431661685	geckodriver	INFO	Listening on 127.0.0.1:45635
+1659431662032	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "55275" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9Ac6Yv"
+Gtk-Message: 06:14:22.099: Failed to load module "canberra-gtk-module"
+Gtk-Message: 06:14:22.101: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1659431662608	Marionette	INFO	Marionette enabled
+1659431662611	Marionette	INFO	Listening on port 32817
+WebDriver BiDi listening on ws://localhost:55275
+Read port: 32817
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659431662742	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9Ac6Yv/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:55275/devtools/browser/947092e0-4402-4ff3-ac47-b16724740e30
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 7443 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659431738667	geckodriver	INFO	Listening on 127.0.0.1:58379
+1659431739132	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "59067" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileseRpf4"
+Gtk-Message: 06:15:39.203: Failed to load module "canberra-gtk-module"
+Gtk-Message: 06:15:39.204: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1659431739731	Marionette	INFO	Marionette enabled
+1659431739734	Marionette	INFO	Listening on port 39261
+WebDriver BiDi listening on ws://localhost:59067
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 39261
+1659431739943	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileseRpf4/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:59067/devtools/browser/ab61cc10-ef10-49ca-9dfc-bb2b0b50ab59
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 7530 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:false'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:529:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:438:21
+Line: 699, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:false'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:529:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:438:21
+Line: 699, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:false'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:529:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:438:21
+Line: 699, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:false'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:529:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:438:21
+Line: 699, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:false'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:529:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:438:21
+Line: 699, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:false'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:529:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:438:21
+Line: 699, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:false'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:false'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:false'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:false'
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:false'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:false'
+1659431831991	geckodriver	INFO	Listening on 127.0.0.1:44521
+1659431832316	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "57463" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePumZMi"
+*** You are running in headless mode.
+1659431832594	Marionette	INFO	Marionette enabled
+1659431832598	Marionette	INFO	Listening on port 44949
+WebDriver BiDi listening on ws://localhost:57463
+Read port: 44949
+1659431832682	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePumZMi/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:57463/devtools/browser/1f202352-fba2-48d6-904f-32efc81227ac
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 1049 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659431877929	geckodriver	INFO	Listening on 127.0.0.1:35635
+1659431878244	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "60677" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletShJ6t"
+*** You are running in headless mode.
+1659431878524	Marionette	INFO	Marionette enabled
+1659431878527	Marionette	INFO	Listening on port 39805
+WebDriver BiDi listening on ws://localhost:60677
+Read port: 39805
+1659431878647	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletShJ6t/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:60677/devtools/browser/d7118e68-ef96-4eca-a1a7-f14c0d930bda
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 2443 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659432530152	geckodriver	INFO	Listening on 127.0.0.1:56289
+1659432530484	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "59071" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileA0jwll"
+*** You are running in headless mode.
+1659432530786	Marionette	INFO	Marionette enabled
+1659432530789	Marionette	INFO	Listening on port 36503
+WebDriver BiDi listening on ws://localhost:59071
+Read port: 36503
+1659432531025	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileA0jwll/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:59071/devtools/browser/f57d3729-7e42-4e5b-a921-c613123dac3e
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 6180 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659432600597	geckodriver	INFO	Listening on 127.0.0.1:53735
+1659432601207	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "34683" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledKHcp5"
+*** You are running in headless mode.
+1659432601551	Marionette	INFO	Marionette enabled
+1659432601554	Marionette	INFO	Listening on port 33767
+WebDriver BiDi listening on ws://localhost:34683
+Read port: 33767
+1659432601680	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledKHcp5/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:34683/devtools/browser/dc590d01-01e8-45f4-b6af-29a659d93909
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 2904 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659432719925	Marionette	INFO	Stopped listening on port 35509
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659432721385	Marionette	INFO	Stopped listening on port 32817
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659432722872	Marionette	INFO	Stopped listening on port 39097
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659432724444	Marionette	INFO	Stopped listening on port 39261
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1659432732072	geckodriver	INFO	Listening on 127.0.0.1:33557
+1659432732518	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "52905" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGLxUJK"
+*** You are running in headless mode.
+1659432732831	Marionette	INFO	Marionette enabled
+1659432732835	Marionette	INFO	Listening on port 42425
+WebDriver BiDi listening on ws://localhost:52905
+Read port: 42425
+1659432733096	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGLxUJK/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:52905/devtools/browser/bd65c471-d156-4964-bfef-7d1a23aac843
+1659432741354	geckodriver	INFO	Listening on 127.0.0.1:40793
+1659432741806	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "55077" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilelGOCbS"
+*** You are running in headless mode.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+1659432742070	Marionette	INFO	Marionette enabled
+1659432742076	Marionette	INFO	Listening on port 43101
+WebDriver BiDi listening on ws://localhost:55077
+Read port: 43101
+1659432742170	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelGOCbS/search.json.mozlz4", (void 0)))
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 2955 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:55077/devtools/browser/e4e075e4-c216-47f2-8fee-547be68986eb
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 6439 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659432973224	geckodriver	INFO	Listening on 127.0.0.1:44261
+1659432973608	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "48955" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileeXAXDS"
+*** You are running in headless mode.
+1659432973874	Marionette	INFO	Marionette enabled
+1659432973877	Marionette	INFO	Listening on port 39757
+WebDriver BiDi listening on ws://localhost:48955
+Read port: 39757
+1659432973954	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeXAXDS/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:48955/devtools/browser/e454908c-2274-4119-b6fa-1643c11f87c7
+1659432982691	geckodriver	INFO	Listening on 127.0.0.1:42357
+1659432983116	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "56715" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZ22zlN"
+*** You are running in headless mode.
+1659432983468	Marionette	INFO	Marionette enabled
+1659432983486	Marionette	INFO	Listening on port 43769
+WebDriver BiDi listening on ws://localhost:56715
+Read port: 43769
+1659432983581	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZ22zlN/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:56715/devtools/browser/5de5008e-11c8-44a2-bbb8-e26bdcce2d4f
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 6084 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 5103 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659433766834	geckodriver	INFO	Listening on 127.0.0.1:44987
+1659433767188	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "37389" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFE6z1p"
+*** You are running in headless mode.
+1659433767853	Marionette	INFO	Marionette enabled
+1659433767857	Marionette	INFO	Listening on port 38759
+WebDriver BiDi listening on ws://localhost:37389
+Read port: 38759
+1659433768038	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFE6z1p/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:37389/devtools/browser/4e45b750-e2c2-47d4-a842-4985973c70e2
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 769))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 421))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L-abKjcItiHPWDDjMj0PdPxA5VtdVHl4wwoyOAXJbC0.js line 2 > eval line 187 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
