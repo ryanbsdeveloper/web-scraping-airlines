@@ -64,6 +64,7 @@ header {
     flex-direction: column;
     align-items: center;
     gap: 1em;
+    min-height: 38em;
 }
 
 footer p {
@@ -441,6 +442,7 @@ span.flights-data {
 .box-content h4 {
     color: var(--color-gray-more);
     margin: 0;
+    text-align: center;
 }
 
 .box-content {
@@ -481,7 +483,7 @@ span.element-taxa {
     flex-wrap: wrap;
     gap: 2em;
     justify-content: space-between;
-    font-size: 0.7em;
+    font-size: 0.9em;
 }
 
 span.value-final {
@@ -507,6 +509,11 @@ span.value-final p {
     text-align: center;
     color: var(--color-main);
     margin: 1em;
+}
+
+.more-options{
+    font-weight: 100;
+    color: #07c707;
 }
 
 .value-one {

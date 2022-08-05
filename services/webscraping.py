@@ -27,10 +27,7 @@ class Scraping():
                 if "Adicione" in v or "Ver" in v or "Acumule" in v or "Comprar" in v or "Passaporte Decolar" in v or "ganharia" in v or "Em até" in v or "Preço" in v or "1 Adulto" in v or "Impostos" in v or "Em até" in v or "Voo mais" in v or "Você pode" in v or "você acumularia" in v or "Bagagem" in v or "Classe" in v:
                     pass
                 else:
-                    if 'R$' in v:
-                        self.file.write(f'{v}\n')
-                    else:
-                        self.file.write(f'{v}\n')
+                    self.file.write(f'{v}\n')
             self.file.write(f'***\n')
 
 # c = Scraping('GRU', 'SSA', '2022-08-05')
