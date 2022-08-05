@@ -15,10 +15,10 @@
                     <a class="logo" href="/"><img src="{{ url_for('static', filename='./images/logo.png')}}" alt="logo"></a>
             </div>
         </header>
-        <form method="post">
-        <div class="container-main">
+        <form action="{{url_for('loading')}}" method="POST">
+        <div class="container-main without-scroll">
             <div class="content">
-                <h1>Escolha os filtros da sua busca</h1>
+                <h1 class='subtitle-page'>Escolha os filtros da sua busca</h1>
                 <div class="value">
                     <label>Defina um preço limite</label>
                     <label class="custom-range-slider range">
@@ -71,19 +71,18 @@
         </div>
         </form>
         <footer>
-            <div class='footer-datas'>
-                <div class='footer-links'>
-                    <a href="https://github.com/ryanbsdeveloper" target='_blank'> <i class="fa-brands fa-github"></i> </a>
-                    <a href="https://www.linkedin.com/in/ryanbarbosasilva/" target='_blank'> <i class="fa-brands fa-linkedin-in"></i> </a>
+            <div class="footer-datas">
+                <div class="footer-links">
+                    <a href="https://github.com/ryanbsdeveloper" target="_blank"> <i class="fa-brands fa-github"></i> </a>
+                    <a href="https://www.linkedin.com/in/ryanbarbosasilva/" target="_blank"> <i class="fa-brands fa-linkedin-in"></i> </a>
                 </div>
-                <div class='footer-details'>
-                    <h1><strong>ryanbs</strong>developer</h1>
-                    <p><strong>"The only way to do something great is to love what you do." </strong>.</p>
-                    <p>Brasil, São paulo - Guarulhos</p>
+                <div class="footer-details">
+                    <h1><strong class='developer'>ryanbs</strong>developer</h1>
+                    <p><strong>"The only way to do something great is to love what you do." </strong></p>
+                    <p>Brazil, São paulo - Guarulhos</p>
                 </div>
-
             </div>
-                <p>© ryanbsdeveloper. Todos os diretos reservados</p>
+                <p>© ryanbsdeveloper. All rights reserved</p>
         </footer>
         <script src="https://kit.fontawesome.com/5fc40ce3b8.js" crossorigin="anonymous"></script>
         <script src="{{url_for('static', filename='js/script.js')}}"></script>

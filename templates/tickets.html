@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:500&display=swap" rel="stylesheet">
+    <link rel="shortcut icon" href="{{ url_for('static', filename='./images/favicon.ico')}}" type="image/x-icon">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <title>Airline tickets</title>
+</head>
+    <body> 
+        <header>
+            <div class='navbar'>
+                    <a class="logo" href="/"><img src="{{ url_for('static', filename='./images/logo.png')}}" alt="logo"></a>
+            </div>
+        </header>
+        <form method="post">
+        <div class="container-main">
+          <h1 class='subtitle-page'> Resultados da sua busca</h1>
+          <div class='box-main'>
+            
+            <div class='content-tickets'>
+                <div class='box-from'>
+                    <span class='from-datas distac'>
+                        <div class='go-back'>
+                            <i class="fa-solid fa-plane ida"></i> 
+                            <p> IDA</p>
+                        </div>
+                        <p>sáb. 13 ago. 2022</p>
+                    </span>
+                    <span class='from-datas'>
+                        <i> GRU </i> 
+                        <p>São paulo</p>
+                    </span>
+                    <span class='from-datas'>
+                        <i> SSA </i> 
+                        <p>Salvador</p>
+                    </span>
+                </div>
+                <div class='box-content'>
+                    <div>
+                        <h4>Opções de IDA</h4>
+                    </div>
+                    <div class="box-flights-from">
+                        <span class='flights-data'>
+                            <img src="{{url_for('static', filename='images/azul.png')}}" alt="Azul">
+                        </span>
+                        <span class='flights-data'>
+                            <p class='flights-hour'>17:55</p> <p class='state-flight'>Direto</p>
+                        </span>
+                        <span class='flights-data'>
+                            <p class='flights-hour'>20:10</p> <p class='time-flight'>2h 50m</p>
+                        </span>
+                    </div>
+                    <div class="box-flights-from">
+                        <span class='flights-data'>
+                            <img src="{{url_for('static', filename='images/azul.png')}}" alt="Azul">
+                        </span>
+                        <span class='flights-data'>
+                            <p class='flights-hour'>17:55</p> <p class='state-flight'>Direto</p>
+                        </span>
+                        <span class='flights-data'>
+                            <p class='flights-hour'>20:10</p> <p class='time-flight'>2h 50m</p>
+                        </span>
+                    </div>
+                    <div class="box-flights-from">
+                        <span class='flights-data'>
+                            <img src="{{url_for('static', filename='images/azul.png')}}" alt="Azul">
+                        </span>
+                        <span class='flights-data'>
+                            <p class='flights-hour'>17:55</p> <p class='state-flight'>Direto</p>
+                        </span>
+                        <span class='flights-data'>
+                            <p class='flights-hour'>20:10</p> <p class='time-flight'>2h 50m</p>
+                        </span>
+                    </div>
+                </div>
+
+                <div class='box-from'>
+                    <span class='from-datas distac'>
+                        <div class='go-back'>
+                            <i class="fa-solid fa-plane invert" > </i>
+                            <p> VOLTA</p>
+                        </div>
+                        <p>sáb. 13 ago. 2022</p>
+                    </span>
+                    <span class='from-datas'>
+                        <i> SSA </i> 
+                        <p>Salvador</p>
+                    </span>
+                    <span class='from-datas'>
+                        <i> GRU </i> 
+                        <p>São paulo</p>
+                    </span>
+                </div>
+                <div class='box-content'>
+                    <div>
+                        <h4>Opções de VOLTA</h4>
+                    </div>
+                    <div class="box-flights-from">
+                        <span class='flights-data'>
+                            <img src="{{url_for('static', filename='images/azul.png')}}" alt="Azul">
+                        </span>
+                        <span class='flights-data'>
+                            <p class='flights-hour'>17:55</p> <p class='state-flight'>Direto</p>
+                        </span>
+                        <span class='flights-data'>
+                            <p class='flights-hour'>20:10</p> <p class='time-flight'>2h 50m</p>
+                        </span>
+                    </div>
+                    <div class="box-flights-from">
+                        <span class='flights-data'>
+                            <img src="{{url_for('static', filename='images/azul.png')}}" alt="Azul">
+                        </span>
+                        <span class='flights-data'>
+                            <p class='flights-hour'>17:55</p> <p class='state-flight'>Direto</p>
+                        </span>
+                        <span class='flights-data'>
+                            <p class='flights-hour'>20:10</p> <p class='time-flight'>2h 50m</p>
+                        </span>
+                    </div>
+                </div>
+
+                <p>Para mais informações das passagens acesse o site da companhia aérea</p>
+            </div>
+            <div class="box-values">
+                <span class="value-one">
+                    <h3>Preço por adulto</h3>
+                    <h4><i>R$</i> 1.450</h4>
+                </span>
+                <span class="taxas">
+                    <span class="element-taxa">
+                        <p>1 Adulto</p> <p>R$ 1.450</p>
+                    </span>
+                </span>
+                <span class="taxas">
+                    <span class="element-taxa">
+                        <p>Impostos e taxas</p> <p>R$ 200</p>
+                    </span>
+                </span>
+                <hr class='line-value'>
+                <span class="value-final">
+                    <p>Preço final</p> <p class='larger'><i>R$</i> 1.650</p>
+                </span>
+            </div>
+
+          </div>
+          <div class='box-main'>
+            
+            <div class='content-tickets'>
+                <div class='box-from'>
+                    <span class='from-datas distac'>
+                        <div class='go-back'>
+                            <i class="fa-solid fa-plane ida"></i> 
+                            <p> IDA</p>
+                        </div>
+                        <p>sáb. 13 ago. 2022</p>
+                    </span>
+                    <span class='from-datas'>
+                        <i> GRU </i> 
+                        <p>São paulo</p>
+                    </span>
+                    <span class='from-datas'>
+                        <i> SSA </i> 
+                        <p>Salvador</p>
+                    </span>
+                </div>
+                <div class='box-content'>
+                    <div>
+                        <h4>Opções de IDA</h4>
+                    </div>
+                    <div class="box-flights-from">
+                        <span class='flights-data'>
+                            <img src="{{url_for('static', filename='images/azul.png')}}" alt="Azul">
+                        </span>
+                        <span class='flights-data'>
+                            <p class='flights-hour'>17:55</p> <p class='state-flight'>Direto</p>
+                        </span>
+                        <span class='flights-data'>
+                            <p class='flights-hour'>20:10</p> <p class='time-flight'>2h 50m</p>
+                        </span>
+                    </div>
+                    <div class="box-flights-from">
+                        <span class='flights-data'>
+                            <img src="{{url_for('static', filename='images/azul.png')}}" alt="Azul">
+                        </span>
+                        <span class='flights-data'>
+                            <p class='flights-hour'>17:55</p> <p class='state-flight'>Direto</p>
+                        </span>
+                        <span class='flights-data'>
+                            <p class='flights-hour'>20:10</p> <p class='time-flight'>2h 50m</p>
+                        </span>
+                    </div>
+                    <div class="box-flights-from">
+                        <span class='flights-data'>
+                            <img src="{{url_for('static', filename='images/azul.png')}}" alt="Azul">
+                        </span>
+                        <span class='flights-data'>
+                            <p class='flights-hour'>17:55</p> <p class='state-flight'>Direto</p>
+                        </span>
+                        <span class='flights-data'>
+                            <p class='flights-hour'>20:10</p> <p class='time-flight'>2h 50m</p>
+                        </span>
+                    </div>
+                </div>
+
+                <div class='box-from'>
+                    <span class='from-datas distac'>
+                        <div class='go-back'>
+                            <i class="fa-solid fa-plane invert" > </i>
+                            <p> VOLTA</p>
+                        </div>
+                        <p>sáb. 13 ago. 2022</p>
+                    </span>
+                    <span class='from-datas'>
+                        <i> SSA </i> 
+                        <p>Salvador</p>
+                    </span>
+                    <span class='from-datas'>
+                        <i> GRU </i> 
+                        <p>São paulo</p>
+                    </span>
+                </div>
+                <div class='box-content'>
+                    <div>
+                        <h4>Opções de VOLTA</h4>
+                    </div>
+                    <div class="box-flights-from">
+                        <span class='flights-data'>
+                            <img src="{{url_for('static', filename='images/azul.png')}}" alt="Azul">
+                        </span>
+                        <span class='flights-data'>
+                            <p class='flights-hour'>17:55</p> <p class='state-flight'>Direto</p>
+                        </span>
+                        <span class='flights-data'>
+                            <p class='flights-hour'>20:10</p> <p class='time-flight'>2h 50m</p>
+                        </span>
+                    </div>
+                    <div class="box-flights-from">
+                        <span class='flights-data'>
+                            <img src="{{url_for('static', filename='images/azul.png')}}" alt="Azul">
+                        </span>
+                        <span class='flights-data'>
+                            <p class='flights-hour'>17:55</p> <p class='state-flight'>Direto</p>
+                        </span>
+                        <span class='flights-data'>
+                            <p class='flights-hour'>20:10</p> <p class='time-flight'>2h 50m</p>
+                        </span>
+                    </div>
+                </div>
+
+                <p>Para mais informações das passagens acesse o site da companhia aérea</p>
+            </div>
+            <div class="box-values">
+                <span class="value-one">
+                    <h3>Preço por adulto</h3>
+                    <h4><i>R$</i> 1.450</h4>
+                </span>
+                <span class="taxas">
+                    <span class="element-taxa">
+                        <p>1 Adulto</p> <p>R$ 1.450</p>
+                    </span>
+                </span>
+                <span class="taxas">
+                    <span class="element-taxa">
+                        <p>Impostos e taxas</p> <p>R$ 200</p>
+                    </span>
+                </span>
+                <hr class='line-value'>
+                <span class="value-final">
+                    <p>Preço final</p> <p class='larger'><i>R$</i> 1.650</p>
+                </span>
+            </div>
+
+          </div>
+          <div class='box-main'>
+            
+            <div class='content-tickets'>
+                <div class='box-from'>
+                    <span class='from-datas distac'>
+                        <div class='go-back'>
+                            <i class="fa-solid fa-plane ida"></i> 
+                            <p> IDA</p>
+                        </div>
+                        <p>sáb. 13 ago. 2022</p>
+                    </span>
+                    <span class='from-datas'>
+                        <i> GRU </i> 
+                        <p>São paulo</p>
+                    </span>
+                    <span class='from-datas'>
+                        <i> SSA </i> 
+                        <p>Salvador</p>
+                    </span>
+                </div>
+                <div class='box-content'>
+                    <div>
+                        <h4>Opções de IDA</h4>
+                    </div>
+                    <div class="box-flights-from">
+                        <span class='flights-data'>
+                            <img src="{{url_for('static', filename='images/azul.png')}}" alt="Azul">
+                        </span>
+                        <span class='flights-data'>
+                            <p class='flights-hour'>17:55</p> <p class='state-flight'>Direto</p>
+                        </span>
+                        <span class='flights-data'>
+                            <p class='flights-hour'>20:10</p> <p class='time-flight'>2h 50m</p>
+                        </span>
+                    </div>
+                    <div class="box-flights-from">
+                        <span class='flights-data'>
+                            <img src="{{url_for('static', filename='images/azul.png')}}" alt="Azul">
+                        </span>
+                        <span class='flights-data'>
+                            <p class='flights-hour'>17:55</p> <p class='state-flight'>Direto</p>
+                        </span>
+                        <span class='flights-data'>
+                            <p class='flights-hour'>20:10</p> <p class='time-flight'>2h 50m</p>
+                        </span>
+                    </div>
+                    <div class="box-flights-from">
+                        <span class='flights-data'>
+                            <img src="{{url_for('static', filename='images/azul.png')}}" alt="Azul">
+                        </span>
+                        <span class='flights-data'>
+                            <p class='flights-hour'>17:55</p> <p class='state-flight'>Direto</p>
+                        </span>
+                        <span class='flights-data'>
+                            <p class='flights-hour'>20:10</p> <p class='time-flight'>2h 50m</p>
+                        </span>
+                    </div>
+                </div>
+
+                <div class='box-from'>
+                    <span class='from-datas distac'>
+                        <div class='go-back'>
+                            <i class="fa-solid fa-plane invert" > </i>
+                            <p> VOLTA</p>
+                        </div>
+                        <p>sáb. 13 ago. 2022</p>
+                    </span>
+                    <span class='from-datas'>
+                        <i> SSA </i> 
+                        <p>Salvador</p>
+                    </span>
+                    <span class='from-datas'>
+                        <i> GRU </i> 
+                        <p>São paulo</p>
+                    </span>
+                </div>
+                <div class='box-content'>
+                    <div>
+                        <h4>Opções de VOLTA</h4>
+                    </div>
+                    <div class="box-flights-from">
+                        <span class='flights-data'>
+                            <img src="{{url_for('static', filename='images/azul.png')}}" alt="Azul">
+                        </span>
+                        <span class='flights-data'>
+                            <p class='flights-hour'>17:55</p> <p class='state-flight'>Direto</p>
+                        </span>
+                        <span class='flights-data'>
+                            <p class='flights-hour'>20:10</p> <p class='time-flight'>2h 50m</p>
+                        </span>
+                    </div>
+                    <div class="box-flights-from">
+                        <span class='flights-data'>
+                            <img src="{{url_for('static', filename='images/azul.png')}}" alt="Azul">
+                        </span>
+                        <span class='flights-data'>
+                            <p class='flights-hour'>17:55</p> <p class='state-flight'>Direto</p>
+                        </span>
+                        <span class='flights-data'>
+                            <p class='flights-hour'>20:10</p> <p class='time-flight'>2h 50m</p>
+                        </span>
+                    </div>
+                </div>
+
+                <p>Para mais informações das passagens acesse o site da companhia aérea</p>
+            </div>
+            <div class="box-values">
+                <span class="value-one">
+                    <h3>Preço por adulto</h3>
+                    <h4><i>R$</i> 1.450</h4>
+                </span>
+                <span class="taxas">
+                    <span class="element-taxa">
+                        <p>1 Adulto</p> <p>R$ 1.450</p>
+                    </span>
+                </span>
+                <span class="taxas">
+                    <span class="element-taxa">
+                        <p>Impostos e taxas</p> <p>R$ 200</p>
+                    </span>
+                </span>
+                <hr class='line-value'>
+                <span class="value-final">
+                    <p>Preço final</p> <p class='larger'><i>R$</i> 1.650</p>
+                </span>
+            </div>
+
+          </div>
+        </div>
+        </form>
+        <footer>
+            <div class="footer-datas">
+                <div class="footer-links">
+                    <a href="https://github.com/ryanbsdeveloper" target="_blank"> <i class="fa-brands fa-github"></i> </a>
+                    <a href="https://www.linkedin.com/in/ryanbarbosasilva/" target="_blank"> <i class="fa-brands fa-linkedin-in"></i> </a>
+                </div>
+                <div class="footer-details">
+                    <h1><strong class='developer'>ryanbs</strong>developer</h1>
+                    <p><strong>"The only way to do something great is to love what you do." </strong></p>
+                    <p>Brazil, São paulo - Guarulhos</p>
+                </div>
+            </div>
+                <p>© ryanbsdeveloper. All rights reserved</p>
+        </footer>
+    <script src="https://kit.fontawesome.com/5fc40ce3b8.js" crossorigin="anonymous"></script>
+    <script src="{{url_for('static', filename='js/script.js')}}"></script>
+</body>
+</html>

@@ -16,27 +16,39 @@
             </div>
         </header>
         <form method="post">
-        <div class="container-main">
+        <div class="container-main without-scroll">
             <img src="{{url_for('static', filename='images/airlines.gif')}}" alt="Carregando passagens...">
-            <h2>Buscando as passgens filtradas...</h2>
+            <h1 class='subtitle-page'>Buscando as passgens filtradas...</h1>
         </div>
     </form>
     <footer>
-        <div class='footer-datas'>
-            <div class='footer-links'>
-                <a href="https://github.com/ryanbsdeveloper" target='_blank'> <i class="fa-brands fa-github"></i> </a>
-                <a href="https://www.linkedin.com/in/ryanbarbosasilva/" target='_blank'> <i class="fa-brands fa-linkedin-in"></i> </a>
+        <div class="footer-datas">
+            <div class="footer-links">
+                <a href="https://github.com/ryanbsdeveloper" target="_blank"> <i class="fa-brands fa-github"></i> </a>
+                <a href="https://www.linkedin.com/in/ryanbarbosasilva/" target="_blank"> <i class="fa-brands fa-linkedin-in"></i> </a>
             </div>
-            <div class='footer-details'>
-                <h1><strong>ryanbs</strong>developer</h1>
-                <p><strong>"The only way to do something great is to love what you do." </strong>.</p>
-                <p>Brasil, São paulo - Guarulhos</p>
+            <div class="footer-details">
+                <h1><strong class='developer'>ryanbs</strong>developer</h1>
+                <p><strong>"The only way to do something great is to love what you do." </strong></p>
+                <p>Brazil, São paulo - Guarulhos</p>
             </div>
-
         </div>
-            <p>© ryanbsdeveloper. Todos os diretos reservados</p>
+            <p>© ryanbsdeveloper. All rights reserved</p>
     </footer>
     <script src="https://kit.fontawesome.com/5fc40ce3b8.js" crossorigin="anonymous"></script>
     <script src="{{url_for('static', filename='js/script.js')}}"></script>
+    <script src="https://code.jquery.com/jquery-1.9.1.js"></script>
+    <script>
+        $.ajax({
+            type: 'POST',
+            url: '/passagens',
+            data: {
+                form_data: '{{form_data}}',
+            },
+            success: function() {
+                window.location.replace('/passagens');
+            }
+          });
+    </script> 
 </body>
 </html>
