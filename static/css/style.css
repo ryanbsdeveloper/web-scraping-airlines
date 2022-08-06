@@ -452,7 +452,7 @@ span.flights-data {
     flex-direction: column;
     align-items: center;
     justify-content: space-between;
-    gap: 2em;
+    gap: .5em;
 }
 
 p.state-flight,
@@ -502,6 +502,7 @@ span.value-final p {
 
 .content-tickets {
     border-right: 1px solid var(--color-gray-more);
+    padding-right: 1em;
 }
 
 .content-tickets>p {
@@ -524,7 +525,7 @@ span.value-final p {
 }
 
 .value-one h3 {
-    font-size: 0.7em;
+    font-size: 0.9em;
     font-weight: 100;
 }
 

@@ -1,363 +1,255 @@
 IDA
-sex. 5 ago. 2022
-CNF
-Belo Horizonte
+sáb. 6 ago. 2022
 GRU
 São Paulo
+SSA
+Salvador
 LATAM
-15:25
-Direto
-16:50
-1h 25m
+17:00
+1 parada
+22:35
+5h 35m
 LATAM
-16:25
-Direto
-17:45
-1h 20m
-LATAM
-23:00
-Direto
-00:20
+22:45
+2 paradas
+11:10
 +1
-1h 20m
-VOLTA
-sáb. 20 ago. 2022
-GRU
-São Paulo
-CNF
-Belo Horizonte
+12h 25m
 LATAM
-04:45
-Direto
-05:55
-1h 10m
-LATAM
-15:45
-Direto
-16:55
-1h 10m
-R$1.383
-R$1.383
-R$218
-R$1.601
-***
-IDA
-sex. 5 ago. 2022
-CNF
-Belo Horizonte
-GRU
-São Paulo
-LATAM
-15:25
-Direto
-16:50
-1h 25m
-LATAM
-16:25
-Direto
-17:45
-1h 20m
-LATAM
-23:00
-Direto
-00:20
-+1
-1h 20m
-VOLTA
-sáb. 20 ago. 2022
-GRU
-São Paulo
-CNF
-Belo Horizonte
-LATAM
-12:15
-Direto
-13:20
-1h 5m
-LATAM
-22:15
-Direto
-23:25
-1h 10m
-R$1.489
-R$1.489
-R$229
-R$1.718
-***
-IDA
-sex. 5 ago. 2022
-CNF
-Belo Horizonte
-GRU
-São Paulo
-Azul
-17:30
-Direto
-18:45
-1h 15m
-Azul
-18:30
-Direto
-19:45
-1h 15m
-Azul
-21:35
-Direto
-22:50
-1h 15m
-VOLTA
-sáb. 20 ago. 2022
-GRU
-São Paulo
-CNF
-Belo Horizonte
-Azul
-06:10
-Direto
-07:15
-1h 5m
-R$1.537
-R$1.537
-R$234
-R$1.771
-***
-IDA
-sex. 5 ago. 2022
-CNF
-Belo Horizonte
-GRU
-São Paulo
-LATAM
-15:25
-Direto
-16:50
-1h 25m
-LATAM
-16:25
-Direto
-17:45
-1h 20m
-LATAM
-23:00
-Direto
-00:20
-+1
-1h 20m
-VOLTA
-sáb. 20 ago. 2022
-GRU
-São Paulo
-CNF
-Belo Horizonte
-LATAM
-07:25
-Direto
-08:35
-1h 10m
-LATAM
-21:15
-Direto
-22:25
-1h 10m
-R$1.485
-R$1.485
-R$228
-R$1.713
-***
-IDA
-sex. 5 ago. 2022
-CNF
-Belo Horizonte
-GRU
-São Paulo
-LATAM
+22:55
+2 paradas
 19:20
-Direto
-20:35
-1h 15m
-VOLTA
-sáb. 20 ago. 2022
-GRU
-São Paulo
-CNF
-Belo Horizonte
-LATAM
-04:45
-Direto
-05:55
-1h 10m
-LATAM
-15:45
-Direto
-16:55
-1h 10m
-R$1.537
-R$1.537
-R$234
-R$1.771
++1
+20h 25m
+R$1.469
+R$1.469
+R$183
+R$1.652
 ***
 IDA
-sex. 5 ago. 2022
-CNF
-Belo Horizonte
+sáb. 6 ago. 2022
 GRU
 São Paulo
-Gol
-19:10
-Direto
-20:25
-1h 15m
-VOLTA
-sáb. 20 ago. 2022
-GRU
-São Paulo
-CNF
-Belo Horizonte
-Gol
-15:45
-Direto
-16:55
-1h 10m
-R$1.537
-R$1.537
-R$234
-R$1.771
+SSA
+Salvador
+Azul
+17:50
+1 parada
+23:50
+6h
+Azul
+22:05
+1 parada
+13:55
++1
+15h 50m
+R$1.469
+R$1.469
+R$183
+R$1.652
 ***
 IDA
-sex. 5 ago. 2022
-CNF
-Belo Horizonte
+sáb. 6 ago. 2022
 GRU
 São Paulo
-Azul
-17:30
+SSA
+Salvador
+LATAM
+12:10
 Direto
-18:45
-1h 15m
-Azul
-18:30
+14:25
+2h 15m
+LATAM
+16:35
 Direto
-19:45
-1h 15m
-Azul
-21:35
+18:50
+2h 15m
+LATAM
+17:55
 Direto
+20:10
+2h 15m
+LATAM
+22:55
+Direto
+01:15
++1
+2h 20m
+R$1.951
+R$1.951
+R$231
+R$2.182
+***
+IDA
+sáb. 6 ago. 2022
+GRU
+São Paulo
+SSA
+Salvador
+Gol
+10:15
+Direto
+12:40
+2h 25m
+Gol
+14:45
+Direto
+17:10
+2h 25m
+Gol
 22:50
-1h 15m
-VOLTA
-sáb. 20 ago. 2022
+Direto
+01:10
++1
+2h 20m
+R$1.951
+R$1.951
+R$231
+R$2.182
+***
+IDA
+sáb. 6 ago. 2022
 GRU
 São Paulo
-CNF
-Belo Horizonte
+SSA
+Salvador
 Azul
-06:10
+17:50
+1 parada
+23:50
+6h
+Azul
+22:05
+1 parada
+13:55
++1
+15h 50m
+R$1.564
+R$1.564
+R$192
+R$1.756
+***
+IDA
+sáb. 6 ago. 2022
+GRU
+São Paulo
+SSA
+Salvador
+LATAM
+17:00
+1 parada
+22:35
+5h 35m
+LATAM
+22:45
+2 paradas
+11:10
++1
+12h 25m
+LATAM
+22:55
+2 paradas
+19:20
++1
+20h 25m
+R$1.644
+R$1.644
+R$200
+R$1.844
+***
+IDA
+sáb. 6 ago. 2022
+GRU
+São Paulo
+SSA
+Salvador
+LATAM
+12:10
 Direto
-07:15
-1h 5m
-R$1.632
-R$1.632
+14:25
+2h 15m
+LATAM
+16:35
+Direto
+18:50
+2h 15m
+LATAM
+17:55
+Direto
+20:10
+2h 15m
+LATAM
+22:55
+Direto
+01:15
++1
+2h 20m
+R$2.072
+R$2.072
 R$243
-R$1.875
+R$2.315
 ***
 IDA
-sex. 5 ago. 2022
-CNF
-Belo Horizonte
+sáb. 6 ago. 2022
 GRU
 São Paulo
-LATAM
-19:20
-Direto
-20:35
-1h 15m
-VOLTA
-sáb. 20 ago. 2022
-GRU
-São Paulo
-CNF
-Belo Horizonte
-LATAM
-12:15
-Direto
-13:20
-1h 5m
-LATAM
-22:15
-Direto
-23:25
-1h 10m
-R$1.643
-R$1.643
-R$244
-R$1.887
-***
-IDA
-sex. 5 ago. 2022
-CNF
-Belo Horizonte
-GRU
-São Paulo
-LATAM
-19:20
-Direto
-20:35
-1h 15m
-VOLTA
-sáb. 20 ago. 2022
-GRU
-São Paulo
-CNF
-Belo Horizonte
-LATAM
-07:25
-Direto
-08:35
-1h 10m
-LATAM
-21:15
-Direto
-22:25
-1h 10m
-R$1.639
-R$1.639
-R$244
-R$1.883
-***
-IDA
-sex. 5 ago. 2022
-CNF
-Belo Horizonte
-GRU
-São Paulo
+SSA
+Salvador
 Gol
-19:10
+10:15
 Direto
-20:25
-1h 15m
-VOLTA
-sáb. 20 ago. 2022
+12:40
+2h 25m
+Gol
+14:45
+Direto
+17:10
+2h 25m
+Gol
+22:50
+Direto
+01:10
++1
+2h 20m
+R$2.071
+R$2.071
+R$243
+R$2.314
+***
+IDA
+sáb. 6 ago. 2022
 GRU
 São Paulo
-CNF
-Belo Horizonte
-Gol
-09:25
+SSA
+Salvador
+LATAM
+12:10
 Direto
-10:35
-1h 10m
-R$1.639
-R$1.639
-R$244
-R$1.883
+14:25
+2h 15m
+LATAM
+16:35
+Direto
+18:50
+2h 15m
+R$2.102
+R$2.102
+R$246
+R$2.348
 ***
-l
-09:25
-Direto
-10:35
-1h 10m
-R$1.639
-R$1.639
-R$244
-R$1.883
+IDA
+sáb. 6 ago. 2022
+GRU
+São Paulo
+SSA
+Salvador
+LATAM
+17:00
+1 parada
+22:35
+5h 35m
+R$1.899
+R$1.899
+R$226
+R$2.125
 ***

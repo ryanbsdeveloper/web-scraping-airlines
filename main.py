@@ -31,11 +31,23 @@ def index():
 
 @app.route('/passagens', methods=['GET', 'POST'])
 def passagens():
-
-
     if request.method == 'POST':
-        input_volta = '2022-08-20'
-        webscraping.Scraping('CNF', 'GRU', '2022-08-05', input_volta)
+        inputs = request.form.to_dict()['form_data']
+        preco = inputs[43:47]
+        origem = inputs[79:82]
+        destino = inputs[115:118]
+        data_ida = inputs[147:157]
+        data_volta = inputs[188:198]
+        if '&#' in data_ida:
+            data_ida = data_volta
+            data_volta = False
+
+        print(preco, origem, destino, data_ida, data_volta)
+        try:
+            webscraping.Scraping(origem, destino, data_ida, data_volta)
+        except:
+            passagens_achadas = 'false'
+            
         with open('aires.txt', 'r') as file:
             precos = []
             temp = []
@@ -48,12 +60,16 @@ def passagens():
             origem_estado = linecache.getline('aires.txt', 4).replace('\n','')
             destino = linecache.getline('aires.txt', 5).replace('\n','')
             destino_estado = linecache.getline('aires.txt', 6).replace('\n','')
+            passagens_achadas = 'true'
             initial = [data, origem, origem_estado, destino, destino_estado]
 
             for value in file.readlines():
+                value = value.replace('\n', '')
+                if value == '-':
+                    passagens_achadas = 'false'
+                    break
                 if value == '+1':
                     continue
-                value = value.replace('\n', '')
                 if value not in initial:
                     if '***' not in value:
                         if 'R$' in value:
@@ -70,7 +86,8 @@ def passagens():
 
             global dados_passagem
             dados_passagem = {
-                'ida_e_volta': input_volta, 
+                'passagens_achadas': passagens_achadas,
+                'ida_e_volta': data_volta, 
                 'data_volta': data_volta,
                 'data': data,
                 'origem': origem,
@@ -79,6 +96,7 @@ def passagens():
                 'destino_estado': destino_estado,
                 'passagens': dados
             }
+
         return render_template('tickets.html')
 
     elif request.method == 'GET':

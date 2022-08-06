@@ -24,10 +24,9 @@ class Scraping():
     def values_formated(self):
         for el in self.element:
             for v in el.text.split('\n'):
-                if "Adicione" in v or "Ver" in v or "Acumule" in v or "Comprar" in v or "Passaporte Decolar" in v or "ganharia" in v or "Em até" in v or "Preço" in v or "1 Adulto" in v or "Impostos" in v or "Em até" in v or "Voo mais" in v or "Você pode" in v or "você acumularia" in v or "Bagagem" in v or "Classe" in v:
+                if "Adicione" in v or "Ver" in v or "Acumule" in v or "Comprar" in v or "Passaporte Decolar" in v or "ganharia" in v or "Em até" in v or "Preço" in v or "1 Adulto" in v or "Impostos" in v or "Em até" in v or "Voo mais" in v or "Você pode" in v or "você acumularia" in v or "Bagagem" in v or "Classe" in v or "Selecionamos" in v or "Parcela" in v or "voo" in v or "Aproveite" in v:
                     pass
                 else:
                     self.file.write(f'{v}\n')
             self.file.write(f'***\n')
 
-# c = Scraping('GRU', 'SSA', '2022-08-05')
