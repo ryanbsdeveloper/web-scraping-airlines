@@ -64,7 +64,7 @@
                                         </span>
                                     </div>
                                 </div>
-                                {% if dados.data_volta != 'false' %}
+                                {% if dados.data_volta %}
                                     <div class='box-from'>
                                         <span class='from-datas distac'>
                                             <div class='go-back'>
@@ -129,7 +129,6 @@
                                 <p>Preço final</p> <p class='larger'><i>R$</i> {{ passagem[-1][3] }}</p>
                             </span>
                         </div>
-                    </div>
                     {% endif %}
                 {% endfor %}
             {% else %}

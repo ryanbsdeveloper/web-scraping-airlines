@@ -19,14 +19,15 @@ class Scraping():
         
         self.element = WebDriverWait(self.driver, 20).until(EC.visibility_of_all_elements_located((By.CLASS_NAME, 'cluster-container')))
 
-        self.file = open('aires.txt', 'r+')
+        self.file = open('aires.txt', 'w')
         self.values_formated()
 
     def values_formated(self):
         for el in self.element:
             for v in el.text.split('\n'):
-                if "Adicione" in v or "Ver" in v or "Acumule" in v or "Comprar" in v or "Passaporte Decolar" in v or "ganharia" in v or "Em até" in v or "Preço" in v or "1 Adulto" in v or "Impostos" in v or "Em até" in v or "Voo mais" in v or "Você pode" in v or "você acumularia" in v or "Bagagem" in v or "Classe" in v or "Selecionamos" in v or "Parcela" in v or "voo" in v or "Aproveite" in v:
+                if "Adicione" in v or "Ver" in v or "Acumule" in v or "Comprar" in v or "Passaporte Decolar" in v or "ganharia" in v or "Em até" in v or "Preço" in v or "1 Adulto" in v or "Impostos" in v or "Em até" in v or "Voo mais" in v or "Você pode" in v or "você acumularia" in v or "Bagagem" in v or "Classe" in v or "Selecionamos" in v or "Parcela" in v or "voo" in v or "Aproveite" in v or "Chegue" in v:
                     pass
                 else:
                     self.file.write(f'{v}\n')
             self.file.write(f'***\n')
+

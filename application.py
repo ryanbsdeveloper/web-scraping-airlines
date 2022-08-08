@@ -3,9 +3,9 @@ from flask import Flask, request
 from flask import render_template
 from services import webscraping
 
-app = Flask(__name__)
+application = Flask(__name__)
 
-@app.route('/', methods=['POST'])
+@application.route('/', methods=['POST'])
 def loading():
     if request.method == 'POST':
         origem = request.form['origem']
@@ -26,7 +26,7 @@ def loading():
         return render_template('return.html', form_data=request.form)
 
 
-@app.route('/', methods=['GET', 'POST'])
+@application.route('/', methods=['GET', 'POST'])
 def index():
     try:
         file = open('aires.txt', 'w')
@@ -38,7 +38,7 @@ def index():
     return render_template('index.html')
 
 
-@app.route('/passagens', methods=['GET', 'POST'])
+@application.route('/passagens', methods=['GET', 'POST'])
 def passagens():
     if request.method == 'POST':
         try:
@@ -50,7 +50,7 @@ def passagens():
             data_volta = inputs[188:198]
             if '&#' in data_ida:
                 data_ida = data_volta
-                data_volta = 'false'
+                data_volta = False
         except:
             passagens_achadas = 'false'
 
@@ -64,7 +64,6 @@ def passagens():
             temp = []
             global dados
             dados = []
-
             try:
                 data = linecache.getline('aires.txt', 2).replace('\n','')
                 data_volta = ''
@@ -88,12 +87,16 @@ def passagens():
                     if '***' not in value:
                         if 'R$' in value:
                             valor = value.replace('R$', '').replace('.', '')
-                            if int(valor) <= int(preco):
-                                precos.append(valor)
-                            else:
-                                precos.clear()
-                                temp.clear()
-                                continue
+                            try:
+                                if int(valor) <= int(preco):
+                                    precos.append(valor)
+                                else:
+                                    precos.clear()
+                                    temp.clear()
+                                    continue
+                            except:
+                                passagens_achadas = 'false'
+                                break
                         else:
                             if '.' in value:
                                 data_volta = value
@@ -104,13 +107,15 @@ def passagens():
                         temp.clear()
                         precos.clear()
 
-            try:
-                if not dados[0][0]:pass
-            except:
-                passagens_achadas = 'false'
-            else:
-                pass
-
+            with open('aires.txt', 'r') as file:
+                if not file.readline():
+                    passagens_achadas = 'false'
+                try:
+                    if not dados[0][0]:
+                        passagens_achadas = 'false'
+                except:
+                    pass
+            
             global dados_passagem
             dados_passagem = {
                 'passagens_achadas': passagens_achadas,
@@ -130,4 +135,4 @@ def passagens():
 
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    application.run(debug=True)
