@@ -4177,3 +4177,1241 @@ If they do, bad things may happen!
 JavaScript warning: https://pagead2.googlesyndication.com/bg/3JgSxLv5M8jO-L1UtlL0rxXgrH7WG4OtpnQVSDBU2F0.js line 2 > eval line 4069 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1659758407471	geckodriver	INFO	Listening on 127.0.0.1:52623
+1659758407886	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "51231" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefv2yPf"
+*** You are running in headless mode.
+1659758408185	Marionette	INFO	Marionette enabled
+1659758408188	Marionette	INFO	Listening on port 45475
+WebDriver BiDi listening on ws://localhost:51231
+Read port: 45475
+1659758408462	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefv2yPf/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:51231/devtools/browser/5a8217df-37d1-4b79-a7bd-7228ffd2c7c2
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+JavaScript warning: https://pagead2.googlesyndication.com/bg/3JgSxLv5M8jO-L1UtlL0rxXgrH7WG4OtpnQVSDBU2F0.js line 2 > eval line 1414 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659758457294	geckodriver	INFO	Listening on 127.0.0.1:49187
+1659758457721	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "45883" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileq1Bt7p"
+*** You are running in headless mode.
+1659758458020	Marionette	INFO	Marionette enabled
+1659758458024	Marionette	INFO	Listening on port 34337
+WebDriver BiDi listening on ws://localhost:45883
+Read port: 34337
+1659758458323	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileq1Bt7p/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:45883/devtools/browser/9652b100-d37f-4b96-b3a4-bd51ff7d7ef4
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+JavaScript warning: https://pagead2.googlesyndication.com/bg/3JgSxLv5M8jO-L1UtlL0rxXgrH7WG4OtpnQVSDBU2F0.js line 2 > eval line 6532 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659758821389	geckodriver	INFO	Listening on 127.0.0.1:51943
+1659758821809	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "44133" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXOKLta"
+*** You are running in headless mode.
+1659758822113	Marionette	INFO	Marionette enabled
+1659758822118	Marionette	INFO	Listening on port 35047
+WebDriver BiDi listening on ws://localhost:44133
+Read port: 35047
+1659758822383	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXOKLta/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:44133/devtools/browser/23f72573-7cc7-47f3-bf14-d1f672b85a86
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+JavaScript warning: https://pagead2.googlesyndication.com/bg/3JgSxLv5M8jO-L1UtlL0rxXgrH7WG4OtpnQVSDBU2F0.js line 2 > eval line 3495 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659759013446	geckodriver	INFO	Listening on 127.0.0.1:34459
+1659759013858	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "48751" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledpmnlm"
+*** You are running in headless mode.
+1659759014169	Marionette	INFO	Marionette enabled
+1659759014173	Marionette	INFO	Listening on port 40793
+WebDriver BiDi listening on ws://localhost:48751
+Read port: 40793
+1659759014441	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledpmnlm/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:48751/devtools/browser/ec8c7159-e558-4185-ab93-24517acae53f
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+JavaScript warning: https://pagead2.googlesyndication.com/bg/3JgSxLv5M8jO-L1UtlL0rxXgrH7WG4OtpnQVSDBU2F0.js line 2 > eval line 3736 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659759163619	geckodriver	INFO	Listening on 127.0.0.1:46761
+1659759163930	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "54121" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezoclkT"
+*** You are running in headless mode.
+1659759164250	Marionette	INFO	Marionette enabled
+1659759164254	Marionette	INFO	Listening on port 44193
+WebDriver BiDi listening on ws://localhost:54121
+Read port: 44193
+1659759164493	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezoclkT/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:54121/devtools/browser/73be49c7-a39a-4d65-a9b5-03818c35f443
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+JavaScript warning: https://pagead2.googlesyndication.com/bg/3JgSxLv5M8jO-L1UtlL0rxXgrH7WG4OtpnQVSDBU2F0.js line 2 > eval line 5487 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659759490336	geckodriver	INFO	Listening on 127.0.0.1:32899
+1659759490538	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "52797" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileF352hx"
+*** You are running in headless mode.
+1659759490815	Marionette	INFO	Marionette enabled
+1659759490818	Marionette	INFO	Listening on port 37179
+WebDriver BiDi listening on ws://localhost:52797
+Read port: 37179
+1659759490895	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileF352hx/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:52797/devtools/browser/fe736409-fa5c-4c58-82ef-4a34a76052c7
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+JavaScript warning: https://pagead2.googlesyndication.com/bg/3JgSxLv5M8jO-L1UtlL0rxXgrH7WG4OtpnQVSDBU2F0.js line 2 > eval line 371 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659759606378	geckodriver	INFO	Listening on 127.0.0.1:45899
+1659759606722	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "51649" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiled9SOlO"
+*** You are running in headless mode.
+1659759607038	Marionette	INFO	Marionette enabled
+1659759607041	Marionette	INFO	Listening on port 38019
+WebDriver BiDi listening on ws://localhost:51649
+Read port: 38019
+1659759607315	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiled9SOlO/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:51649/devtools/browser/99eda2dc-20bf-42a3-b69a-9f38025b6b94
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+JavaScript warning: https://pagead2.googlesyndication.com/bg/3JgSxLv5M8jO-L1UtlL0rxXgrH7WG4OtpnQVSDBU2F0.js line 2 > eval line 5979 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659759746048	geckodriver	INFO	Listening on 127.0.0.1:38717
+1659759746197	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "43999" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileA2mQpU"
+*** You are running in headless mode.
+1659759746445	Marionette	INFO	Marionette enabled
+1659759746448	Marionette	INFO	Listening on port 36729
+WebDriver BiDi listening on ws://localhost:43999
+Read port: 36729
+1659759746608	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileA2mQpU/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:43999/devtools/browser/8a6ecf6a-264a-4e0d-ac66-69a1051019e9
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+JavaScript warning: https://pagead2.googlesyndication.com/bg/3JgSxLv5M8jO-L1UtlL0rxXgrH7WG4OtpnQVSDBU2F0.js line 2 > eval line 1685 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659760241335	geckodriver	INFO	Listening on 127.0.0.1:54029
+1659760241927	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "37221" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileI39GHL"
+*** You are running in headless mode.
+1659760242177	Marionette	INFO	Marionette enabled
+1659760242180	Marionette	INFO	Listening on port 43053
+WebDriver BiDi listening on ws://localhost:37221
+Read port: 43053
+1659760242270	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileI39GHL/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:37221/devtools/browser/191f7322-fd80-4833-81bd-ca0d0eb6fa00
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+JavaScript warning: https://pagead2.googlesyndication.com/bg/3JgSxLv5M8jO-L1UtlL0rxXgrH7WG4OtpnQVSDBU2F0.js line 2 > eval line 4820 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659760377159	geckodriver	INFO	Listening on 127.0.0.1:59113
+1659760377480	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "35895" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLieYXT"
+*** You are running in headless mode.
+1659760377728	Marionette	INFO	Marionette enabled
+1659760377731	Marionette	INFO	Listening on port 46303
+WebDriver BiDi listening on ws://localhost:35895
+Read port: 46303
+1659760377823	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLieYXT/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:35895/devtools/browser/eaf90a50-ba65-4d7a-8649-9073e8b6376d
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+JavaScript warning: https://pagead2.googlesyndication.com/bg/3JgSxLv5M8jO-L1UtlL0rxXgrH7WG4OtpnQVSDBU2F0.js line 2 > eval line 3114 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659760435450	geckodriver	INFO	Listening on 127.0.0.1:58785
+1659760435623	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "51871" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCWNCjk"
+*** You are running in headless mode.
+1659760435871	Marionette	INFO	Marionette enabled
+1659760435874	Marionette	INFO	Listening on port 44837
+WebDriver BiDi listening on ws://localhost:51871
+Read port: 44837
+1659760435960	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCWNCjk/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:51871/devtools/browser/2328beb7-d838-4531-9391-ae22ed401fb7
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+JavaScript warning: https://pagead2.googlesyndication.com/bg/3JgSxLv5M8jO-L1UtlL0rxXgrH7WG4OtpnQVSDBU2F0.js line 2 > eval line 609 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659760514875	geckodriver	INFO	Listening on 127.0.0.1:48897
+1659760514975	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "60505" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilep2ET4L"
+*** You are running in headless mode.
+1659760515278	Marionette	INFO	Marionette enabled
+1659760515281	Marionette	INFO	Listening on port 36701
+WebDriver BiDi listening on ws://localhost:60505
+Read port: 36701
+1659760515564	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilep2ET4L/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:60505/devtools/browser/b04e542e-e9fc-4e0e-90f7-249a6e86ebd7
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+JavaScript warning: https://pagead2.googlesyndication.com/bg/3JgSxLv5M8jO-L1UtlL0rxXgrH7WG4OtpnQVSDBU2F0.js line 2 > eval line 4607 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659760624773	geckodriver	INFO	Listening on 127.0.0.1:52747
+1659760625082	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "46671" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileuHL8XS"
+*** You are running in headless mode.
+1659760625331	Marionette	INFO	Marionette enabled
+1659760625335	Marionette	INFO	Listening on port 41703
+WebDriver BiDi listening on ws://localhost:46671
+Read port: 41703
+1659760625423	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuHL8XS/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:46671/devtools/browser/de21d06c-5e54-4b30-98ac-c3aff5dbdcd9
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+JavaScript warning: https://pagead2.googlesyndication.com/bg/3JgSxLv5M8jO-L1UtlL0rxXgrH7WG4OtpnQVSDBU2F0.js line 2 > eval line 1672 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659760747291	geckodriver	INFO	Listening on 127.0.0.1:33261
+1659760747634	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "52197" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePP9Q1K"
+*** You are running in headless mode.
+1659760747879	Marionette	INFO	Marionette enabled
+1659760747882	Marionette	INFO	Listening on port 36825
+WebDriver BiDi listening on ws://localhost:52197
+Read port: 36825
+1659760747969	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePP9Q1K/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:52197/devtools/browser/02e74cec-94a4-4500-b8e3-81041861f0a4
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+JavaScript warning: https://pagead2.googlesyndication.com/bg/3JgSxLv5M8jO-L1UtlL0rxXgrH7WG4OtpnQVSDBU2F0.js line 2 > eval line 842 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659762091579	geckodriver	INFO	Listening on 127.0.0.1:44427
+1659762092213	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "38487" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYXyOoa"
+*** You are running in headless mode.
+1659762092667	Marionette	INFO	Marionette enabled
+1659762092672	Marionette	INFO	Listening on port 45995
+WebDriver BiDi listening on ws://localhost:38487
+Read port: 45995
+1659762092840	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYXyOoa/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:38487/devtools/browser/fdc8f936-7083-432c-894b-90ec84ec513a
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+JavaScript warning: https://pagead2.googlesyndication.com/bg/3JgSxLv5M8jO-L1UtlL0rxXgrH7WG4OtpnQVSDBU2F0.js line 2 > eval line 2418 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659762154047	geckodriver	INFO	Listening on 127.0.0.1:56699
+1659762154383	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "36767" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilelnt4xM"
+*** You are running in headless mode.
+1659762154763	Marionette	INFO	Marionette enabled
+1659762154768	Marionette	INFO	Listening on port 40677
+WebDriver BiDi listening on ws://localhost:36767
+Read port: 40677
+1659762154901	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelnt4xM/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:36767/devtools/browser/a69e193f-f413-4d6a-9a50-9a8823d2c51d
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+JavaScript warning: https://pagead2.googlesyndication.com/bg/3JgSxLv5M8jO-L1UtlL0rxXgrH7WG4OtpnQVSDBU2F0.js line 2 > eval line 3158 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659762270637	geckodriver	INFO	Listening on 127.0.0.1:38755
+1659762271402	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "51607" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKJVy9Q"
+*** You are running in headless mode.
+1659762272035	Marionette	INFO	Marionette enabled
+1659762272039	Marionette	INFO	Listening on port 46429
+WebDriver BiDi listening on ws://localhost:51607
+Read port: 46429
+1659762272239	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKJVy9Q/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:51607/devtools/browser/bb5f82d6-2f9d-4c69-9974-b9bf2f4e2dcd
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/libreoffice/help /usr/share/libreoffice/help none bind,ro 0 0): cannot create directory "/usr/share/libreoffice/help": permission denied
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/xubuntu-docs /usr/share/xubuntu-docs none bind,ro 0 0): cannot open directory "/var/lib": permission denied
+1659811768608	geckodriver	INFO	Listening on 127.0.0.1:55507
+1659811769083	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "45825" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletcnQnQ"
+*** You are running in headless mode.
+1659811769663	Marionette	INFO	Marionette enabled
+1659811769667	Marionette	INFO	Listening on port 43435
+WebDriver BiDi listening on ws://localhost:45825
+Read port: 43435
+1659811769825	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 421))
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletcnQnQ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:45825/devtools/browser/23dce1a3-78c2-4140-a672-b6325080e529
+1659811962145	geckodriver	INFO	Listening on 127.0.0.1:52203
+1659811962583	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "52181" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZiMRBk"
+*** You are running in headless mode.
+1659811962874	Marionette	INFO	Marionette enabled
+1659811962877	Marionette	INFO	Listening on port 35449
+WebDriver BiDi listening on ws://localhost:52181
+Read port: 35449
+1659811962976	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 421))
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZiMRBk/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:52181/devtools/browser/c0e9a7e2-6936-4b6a-b21f-50e2d1e52448
+1659812159675	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1659812352887	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 421))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 421))
+1659839753478	geckodriver	INFO	Listening on 127.0.0.1:47835
+1659839753937	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "57593" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOls0jV"
+*** You are running in headless mode.
+1659839754181	Marionette	INFO	Marionette enabled
+1659839754184	Marionette	INFO	Listening on port 34085
+WebDriver BiDi listening on ws://localhost:57593
+Read port: 34085
+1659839754341	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 421))
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOls0jV/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:57593/devtools/browser/7eb80eed-c324-41e4-8e0f-2cb8889f5efb
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1659899350722	geckodriver	INFO	Listening on 127.0.0.1:37807
+1659899351136	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "43123" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilec5SNgn"
+*** You are running in headless mode.
+1659899351448	Marionette	INFO	Marionette enabled
+1659899351451	Marionette	INFO	Listening on port 39091
+WebDriver BiDi listening on ws://localhost:43123
+Read port: 39091
+1659899351753	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilec5SNgn/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:43123/devtools/browser/84aa3b59-63df-46d3-99c0-eca62c66524d
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7_ytIEpYWpd7XN7KxgxvHAG9q-1MjoUA1EpcWWHxRKk.js line 2 > eval line 740 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659899541401	geckodriver	INFO	Listening on 127.0.0.1:41235
+1659899541783	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "34461" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileEhZv2O"
+*** You are running in headless mode.
+1659899542244	Marionette	INFO	Marionette enabled
+1659899542248	Marionette	INFO	Listening on port 36799
+WebDriver BiDi listening on ws://localhost:34461
+Read port: 36799
+1659899542369	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEhZv2O/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:34461/devtools/browser/039677cf-fb00-436e-970a-addc618196a9
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7_ytIEpYWpd7XN7KxgxvHAG9q-1MjoUA1EpcWWHxRKk.js line 2 > eval line 3587 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659899611673	geckodriver	INFO	Listening on 127.0.0.1:54395
+1659899612090	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "55047" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7vV6bV"
+*** You are running in headless mode.
+1659899612392	Marionette	INFO	Marionette enabled
+1659899612396	Marionette	INFO	Listening on port 43369
+WebDriver BiDi listening on ws://localhost:55047
+Read port: 43369
+1659899612683	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7vV6bV/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:55047/devtools/browser/a8b3435f-4a71-4553-8253-993f8a6fbc54
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7_ytIEpYWpd7XN7KxgxvHAG9q-1MjoUA1EpcWWHxRKk.js line 2 > eval line 474 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659899758832	geckodriver	INFO	Listening on 127.0.0.1:49785
+1659899759211	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "59981" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZVMOSv"
+*** You are running in headless mode.
+1659899759520	Marionette	INFO	Marionette enabled
+1659899759524	Marionette	INFO	Listening on port 43165
+WebDriver BiDi listening on ws://localhost:59981
+Read port: 43165
+1659899759819	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZVMOSv/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:59981/devtools/browser/048980dd-18be-4652-b1bc-71c3cc659cb9
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7_ytIEpYWpd7XN7KxgxvHAG9q-1MjoUA1EpcWWHxRKk.js line 2 > eval line 6773 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659900159531	geckodriver	INFO	Listening on 127.0.0.1:39483
+1659900159963	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "56833" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilel8IjbW"
+*** You are running in headless mode.
+1659900160273	Marionette	INFO	Marionette enabled
+1659900160277	Marionette	INFO	Listening on port 46571
+WebDriver BiDi listening on ws://localhost:56833
+Read port: 46571
+1659900160568	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilel8IjbW/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:56833/devtools/browser/4430b982-f562-4905-a11f-25b9666f62dc
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7_ytIEpYWpd7XN7KxgxvHAG9q-1MjoUA1EpcWWHxRKk.js line 2 > eval line 578 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659900207964	geckodriver	INFO	Listening on 127.0.0.1:45635
+1659900208407	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "60303" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileB8qpHO"
+*** You are running in headless mode.
+1659900208718	Marionette	INFO	Marionette enabled
+1659900208722	Marionette	INFO	Listening on port 38059
+WebDriver BiDi listening on ws://localhost:60303
+Read port: 38059
+1659900209020	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileB8qpHO/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:60303/devtools/browser/bee5c67e-76c3-4b06-b73d-c05c812f7ca0
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7_ytIEpYWpd7XN7KxgxvHAG9q-1MjoUA1EpcWWHxRKk.js line 2 > eval line 1196 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659900251313	geckodriver	INFO	Listening on 127.0.0.1:41559
+1659900251728	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "59019" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileEAoYRB"
+*** You are running in headless mode.
+1659900252041	Marionette	INFO	Marionette enabled
+1659900252045	Marionette	INFO	Listening on port 41589
+WebDriver BiDi listening on ws://localhost:59019
+Read port: 41589
+1659900252309	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEAoYRB/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:59019/devtools/browser/c5c5641f-d4c8-4d7b-8755-d61f55a22e28
+1659900944996	geckodriver	INFO	Listening on 127.0.0.1:51531
+1659900945407	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "55903" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileo2FUFK"
+*** You are running in headless mode.
+1659900945735	Marionette	INFO	Marionette enabled
+1659900945738	Marionette	INFO	Listening on port 38289
+WebDriver BiDi listening on ws://localhost:55903
+Read port: 38289
+1659900945870	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 421))
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileo2FUFK/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:55903/devtools/browser/380a0da3-e8aa-4114-8d55-e8f370d5d30e
+1659900961495	geckodriver	INFO	Listening on 127.0.0.1:36857
+1659900961926	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "51191" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilelMfG55"
+*** You are running in headless mode.
+1659900962269	Marionette	INFO	Marionette enabled
+1659900962273	Marionette	INFO	Listening on port 41851
+WebDriver BiDi listening on ws://localhost:51191
+Read port: 41851
+1659900962364	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 421))
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelMfG55/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:51191/devtools/browser/93158a72-011c-441d-b79c-5cb747f5125e
+1659900967877	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1659901242048	geckodriver	INFO	Listening on 127.0.0.1:40961
+1659901242475	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "52213" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9iUM2h"
+*** You are running in headless mode.
+1659901242787	Marionette	INFO	Marionette enabled
+1659901242791	Marionette	INFO	Listening on port 32807
+WebDriver BiDi listening on ws://localhost:52213
+Read port: 32807
+1659901243068	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9iUM2h/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:52213/devtools/browser/792177b0-0ea3-425e-8c34-d879eb429aef
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659901393649	geckodriver	INFO	Listening on 127.0.0.1:46419
+1659901394069	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "45985" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekXjLom"
+*** You are running in headless mode.
+1659901394377	Marionette	INFO	Marionette enabled
+1659901394381	Marionette	INFO	Listening on port 36649
+WebDriver BiDi listening on ws://localhost:45985
+Read port: 36649
+1659901394664	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekXjLom/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:45985/devtools/browser/c7cb9d50-dfc6-46cb-83e5-6d19af8796b9
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659901589994	geckodriver	INFO	Listening on 127.0.0.1:51135
+1659901590386	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "57559" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileesTx65"
+*** You are running in headless mode.
+1659901590689	Marionette	INFO	Marionette enabled
+1659901590693	Marionette	INFO	Listening on port 35707
+WebDriver BiDi listening on ws://localhost:57559
+Read port: 35707
+1659901590983	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileesTx65/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:57559/devtools/browser/96daa17a-1fa4-4803-9b38-22bcd4421ebd
+1659901899771	geckodriver	INFO	Listening on 127.0.0.1:38445
+1659901900212	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "38371" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOqUHYE"
+*** You are running in headless mode.
+1659901900473	Marionette	INFO	Marionette enabled
+1659901900476	Marionette	INFO	Listening on port 38203
+WebDriver BiDi listening on ws://localhost:38371
+Read port: 38203
+1659901900555	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOqUHYE/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:38371/devtools/browser/48b6782d-84a7-4cef-ab30-41b1018b877b
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+JavaScript warning: https://pagead2.googlesyndication.com/bg/jjp8A9boDrBmSAr_yfbeEM1ThbAhpFVxRN30ZpHEy3Q.js line 2 > eval line 4678 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659902021171	geckodriver	INFO	Listening on 127.0.0.1:56789
+1659902021589	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "43307" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAkjBk6"
+*** You are running in headless mode.
+1659902021846	Marionette	INFO	Marionette enabled
+1659902021849	Marionette	INFO	Listening on port 40749
+WebDriver BiDi listening on ws://localhost:43307
+Read port: 40749
+1659902021927	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAkjBk6/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:43307/devtools/browser/a0ea55b1-ba3d-45b5-bd49-272ecad0e2dc
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+JavaScript warning: https://pagead2.googlesyndication.com/bg/jjp8A9boDrBmSAr_yfbeEM1ThbAhpFVxRN30ZpHEy3Q.js line 2 > eval line 4019 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659902162131	geckodriver	INFO	Listening on 127.0.0.1:47035
+1659902162573	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "57871" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesJZKKx"
+*** You are running in headless mode.
+1659902162834	Marionette	INFO	Marionette enabled
+1659902162838	Marionette	INFO	Listening on port 46597
+WebDriver BiDi listening on ws://localhost:57871
+Read port: 46597
+1659902162922	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesJZKKx/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:57871/devtools/browser/bed4c858-976e-4efd-9dce-16e918d8d3fb
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+JavaScript warning: https://pagead2.googlesyndication.com/bg/jjp8A9boDrBmSAr_yfbeEM1ThbAhpFVxRN30ZpHEy3Q.js line 2 > eval line 5402 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659902476746	geckodriver	INFO	Listening on 127.0.0.1:35543
+1659902477177	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "57879" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJRGc2z"
+*** You are running in headless mode.
+1659902477453	Marionette	INFO	Marionette enabled
+1659902477458	Marionette	INFO	Listening on port 44951
+WebDriver BiDi listening on ws://localhost:57879
+Read port: 44951
+1659902477537	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJRGc2z/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:57879/devtools/browser/9145f0cd-3254-4e56-8a42-8f82632daff3
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 769))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 421))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+JavaScript warning: https://pagead2.googlesyndication.com/bg/jjp8A9boDrBmSAr_yfbeEM1ThbAhpFVxRN30ZpHEy3Q.js line 2 > eval line 5935 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659902687559	geckodriver	INFO	Listening on 127.0.0.1:34869
+1659902687993	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "41185" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileoNX4xh"
+*** You are running in headless mode.
+1659902688257	Marionette	INFO	Marionette enabled
+1659902688260	Marionette	INFO	Listening on port 37077
+WebDriver BiDi listening on ws://localhost:41185
+Read port: 37077
+1659902688345	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoNX4xh/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:41185/devtools/browser/3dd27b4c-00f2-4bc3-835f-375ce6c8d2a3
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+JavaScript warning: https://pagead2.googlesyndication.com/bg/jjp8A9boDrBmSAr_yfbeEM1ThbAhpFVxRN30ZpHEy3Q.js line 2 > eval line 1799 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659902747809	geckodriver	INFO	Listening on 127.0.0.1:55479
+1659902748258	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "60529" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletlu2tO"
+*** You are running in headless mode.
+1659902748526	Marionette	INFO	Marionette enabled
+1659902748529	Marionette	INFO	Listening on port 34465
+WebDriver BiDi listening on ws://localhost:60529
+Read port: 34465
+1659902748611	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletlu2tO/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:60529/devtools/browser/c77c1e01-1903-4cf4-bac4-8fb4d74f1704
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+JavaScript warning: https://pagead2.googlesyndication.com/bg/jjp8A9boDrBmSAr_yfbeEM1ThbAhpFVxRN30ZpHEy3Q.js line 2 > eval line 934 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659902806751	geckodriver	INFO	Listening on 127.0.0.1:52975
+1659902807106	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "53721" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilee7fQ1Y"
+*** You are running in headless mode.
+1659902807383	Marionette	INFO	Marionette enabled
+1659902807387	Marionette	INFO	Listening on port 42261
+WebDriver BiDi listening on ws://localhost:53721
+Read port: 42261
+1659902807473	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilee7fQ1Y/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:53721/devtools/browser/c42d8cbd-1b1c-4d78-ac4e-e445adc36562
+1659903037967	geckodriver	INFO	Listening on 127.0.0.1:35211
+1659903038285	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "44405" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWeKptI"
+*** You are running in headless mode.
+1659903038610	Marionette	INFO	Marionette enabled
+1659903038613	Marionette	INFO	Listening on port 42169
+WebDriver BiDi listening on ws://localhost:44405
+Read port: 42169
+1659903038877	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWeKptI/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:44405/devtools/browser/39c0f071-952a-494d-9e41-8779292e976d
+1659903273725	geckodriver	INFO	Listening on 127.0.0.1:36937
+1659903274120	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "52401" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegeVI15"
+*** You are running in headless mode.
+1659903274447	Marionette	INFO	Marionette enabled
+1659903274452	Marionette	INFO	Listening on port 33171
+WebDriver BiDi listening on ws://localhost:52401
+Read port: 33171
+1659903274575	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegeVI15/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:52401/devtools/browser/32e3dd66-7243-48b9-8144-8b885354b0ae
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+JavaScript warning: https://pagead2.googlesyndication.com/bg/jjp8A9boDrBmSAr_yfbeEM1ThbAhpFVxRN30ZpHEy3Q.js line 2 > eval line 4542 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659903475954	geckodriver	INFO	Listening on 127.0.0.1:44921
+1659903476161	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "53947" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBO9GbA"
+*** You are running in headless mode.
+1659903476481	Marionette	INFO	Marionette enabled
+1659903476484	Marionette	INFO	Listening on port 42627
+WebDriver BiDi listening on ws://localhost:53947
+Read port: 42627
+1659903476693	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBO9GbA/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:53947/devtools/browser/ad7f4f2a-6066-4083-afe0-6d52d148af3b
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+JavaScript warning: https://pagead2.googlesyndication.com/bg/jjp8A9boDrBmSAr_yfbeEM1ThbAhpFVxRN30ZpHEy3Q.js line 2 > eval line 3308 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659903543444	geckodriver	INFO	Listening on 127.0.0.1:35003
+1659903543574	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "50903" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilep58jw6"
+*** You are running in headless mode.
+1659903543897	Marionette	INFO	Marionette enabled
+1659903543901	Marionette	INFO	Listening on port 41513
+WebDriver BiDi listening on ws://localhost:50903
+Read port: 41513
+1659903544111	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilep58jw6/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:50903/devtools/browser/96be25ff-2045-4772-a172-1137b75bf586
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+JavaScript warning: https://pagead2.googlesyndication.com/bg/jjp8A9boDrBmSAr_yfbeEM1ThbAhpFVxRN30ZpHEy3Q.js line 2 > eval line 21 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659903776041	geckodriver	INFO	Listening on 127.0.0.1:39201
+1659903776182	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "37741" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebo4Jik"
+*** You are running in headless mode.
+1659903776606	Marionette	INFO	Marionette enabled
+1659903776611	Marionette	INFO	Listening on port 36407
+WebDriver BiDi listening on ws://localhost:37741
+Read port: 36407
+1659903776734	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebo4Jik/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:37741/devtools/browser/6c2ad3f8-e018-4f29-ab34-be9fbc1cf4f9
+JavaScript error: https://www.decolar.com/shop/flights/results/oneway/SSA/GRU/2022-08-19/1/0/0/NA/NA/NA/NA?from=SB&di=1-0, line 336: ReferenceError: $ is not defined
+JavaScript error: https://br.staticontent.com/shop/flights/js-versioned/21.35.14/custom/jquery.newrelic.js, line 98: ReferenceError: jQuery is not defined
+1659904270003	geckodriver	INFO	Listening on 127.0.0.1:54047
+1659904270436	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "47299" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOoFpV9"
+*** You are running in headless mode.
+1659904270760	Marionette	INFO	Marionette enabled
+1659904270763	Marionette	INFO	Listening on port 44087
+WebDriver BiDi listening on ws://localhost:47299
+Read port: 44087
+1659904270978	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOoFpV9/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:47299/devtools/browser/d4597fc2-763e-4b53-82d7-abcafbd9f46f
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659904345603	geckodriver	INFO	Listening on 127.0.0.1:38693
+1659904345806	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "49221" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemLtHVe"
+*** You are running in headless mode.
+1659904346117	Marionette	INFO	Marionette enabled
+1659904346123	Marionette	INFO	Listening on port 38069
+WebDriver BiDi listening on ws://localhost:49221
+Read port: 38069
+1659904346344	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemLtHVe/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:49221/devtools/browser/703bd0a0-935f-4103-9bd1-6c4d0ef9ba8a
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659904524616	geckodriver	INFO	Listening on 127.0.0.1:52273
+1659904525004	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "52303" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenBq518"
+*** You are running in headless mode.
+1659904525383	Marionette	INFO	Marionette enabled
+1659904525389	Marionette	INFO	Listening on port 39123
+WebDriver BiDi listening on ws://localhost:52303
+Read port: 39123
+1659904525480	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenBq518/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:52303/devtools/browser/76cf77e7-c269-438a-882a-aa36c2872aec
+JavaScript error: , line 0: TypeError: ServiceWorker script at https://www.decolar.com/service-worker.js for scope https://www.decolar.com/ encountered an error during installation.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659904752352	geckodriver	INFO	Listening on 127.0.0.1:43131
+1659904753027	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "56731" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0woccD"
+*** You are running in headless mode.
+1659904753757	Marionette	INFO	Marionette enabled
+1659904753761	Marionette	INFO	Listening on port 36129
+WebDriver BiDi listening on ws://localhost:56731
+Read port: 36129
+1659904753941	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0woccD/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:56731/devtools/browser/af63eb06-3dab-4df7-88d6-365097ee4acf
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 769))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 421))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659904906436	geckodriver	INFO	Listening on 127.0.0.1:51845
+1659904906804	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "34967" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilequbQq6"
+*** You are running in headless mode.
+1659904907564	Marionette	INFO	Marionette enabled
+1659904907571	Marionette	INFO	Listening on port 42557
+WebDriver BiDi listening on ws://localhost:34967
+Read port: 42557
+1659904907764	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilequbQq6/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:34967/devtools/browser/f1490c69-a7f1-4ec9-a44c-dd4b03e420f8
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659905018676	geckodriver	INFO	Listening on 127.0.0.1:40699
+1659905019277	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "43437" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOZNPku"
+*** You are running in headless mode.
+1659905020376	Marionette	INFO	Marionette enabled
+1659905020380	Marionette	INFO	Listening on port 42607
+WebDriver BiDi listening on ws://localhost:43437
+Read port: 42607
+1659905020637	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOZNPku/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:43437/devtools/browser/1a3837ac-d1ec-4138-a352-ae3f41a6b5da
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:117:1
+NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:128:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:629:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:391:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:117:1
+NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:128:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:629:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:391:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:117:1
+NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:128:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:629:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:391:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:117:1
+NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:128:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:629:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:391:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:117:1
+NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:128:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:629:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:391:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:117:1
+NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:128:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:629:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:391:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:117:1
+NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:128:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:629:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:391:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:117:1
+NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:128:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:629:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:391:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:117:1
+NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:128:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:629:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:391:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:117:1
+NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:128:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:629:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:391:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:117:1
+NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:128:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:629:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:391:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:117:1
+NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:128:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:629:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:391:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:117:1
+NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:128:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:629:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:391:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:117:1
+NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:128:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:629:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:391:22
+
+1659906254426	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: https://www.decolar.com/shop/flights/results/roundtrip/GRU/CNF/2022-08-13/false/1/0/0/NA/NA/NA/NA/NA?from=SB&di=1-0&reSearch=true, line 116: ReferenceError: mcReqJs is not defined
+JavaScript error: https://www.decolar.com/shop/flights/results/roundtrip/GRU/CNF/2022-08-13/false/1/0/0/NA/NA/NA/NA/NA?from=SB&di=1-0&reSearch=true, line 147: ReferenceError: mcReqJs is not defined
+JavaScript error: https://www.decolar.com/shop/flights/results/roundtrip/GRU/CNF/2022-08-13/false/1/0/0/NA/NA/NA/NA/NA?from=SB&di=1-0&reSearch=true, line 236: ReferenceError: mcReqJs is not defined
+1659907884141	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1659908003896	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 421))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 421))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 421))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 769))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 421))
+1659921645589	geckodriver	INFO	Listening on 127.0.0.1:45451
+1659921646668	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "45175" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYWd0jb"
+*** You are running in headless mode.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1659924986500	geckodriver	INFO	Listening on 127.0.0.1:39089
+1659924987269	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "36701" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileaUrS9L"
+*** You are running in headless mode.
+1659924987972	Marionette	INFO	Marionette enabled
+1659924987976	Marionette	INFO	Listening on port 40259
+WebDriver BiDi listening on ws://localhost:36701
+Read port: 40259
+1659924988167	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaUrS9L/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:36701/devtools/browser/0e2bce20-f8df-44c1-ae55-901d3c4fc3db
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659925083837	geckodriver	INFO	Listening on 127.0.0.1:38463
+1659925084466	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "47073" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileeSNDT6"
+*** You are running in headless mode.
+1659925085735	Marionette	INFO	Marionette enabled
+1659925085741	Marionette	INFO	Listening on port 33595
+WebDriver BiDi listening on ws://localhost:47073
+Read port: 33595
+1659925086101	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeSNDT6/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/libreoffice/help /usr/share/libreoffice/help none bind,ro 0 0): cannot create directory "/usr/share/libreoffice/help": permission denied
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/xubuntu-docs /usr/share/xubuntu-docs none bind,ro 0 0): cannot open directory "/var/lib": permission denied
+1659925816423	geckodriver	INFO	Listening on 127.0.0.1:42365
+1659925816900	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "49527" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2mAaqO"
+*** You are running in headless mode.
+1659925817623	Marionette	INFO	Marionette enabled
+1659925817629	Marionette	INFO	Listening on port 42843
+WebDriver BiDi listening on ws://localhost:49527
+Read port: 42843
+1659925817831	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2mAaqO/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:49527/devtools/browser/146bd755-ac39-4dc2-b0f8-d12e878d9b49
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659925953726	geckodriver	INFO	Listening on 127.0.0.1:51415
+1659925954112	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "50853" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileyg818W"
+*** You are running in headless mode.
+1659925954521	Marionette	INFO	Marionette enabled
+1659925954526	Marionette	INFO	Listening on port 36021
+WebDriver BiDi listening on ws://localhost:50853
+Read port: 36021
+1659925954796	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyg818W/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:50853/devtools/browser/26d570ca-f893-4619-b4cb-8d80480bcc92
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+1659926176538	geckodriver	INFO	Listening on 127.0.0.1:47597
+1659926176939	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--incognito" "--headless" "--remote-debugging-port" "49081" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDxqfRB"
+*** You are running in headless mode.
+1659926177367	Marionette	INFO	Marionette enabled
+1659926177373	Marionette	INFO	Listening on port 33927
+WebDriver BiDi listening on ws://localhost:49081
+Read port: 33927
+1659926177511	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDxqfRB/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:49081/devtools/browser/27a7f9af-790e-40c8-a6a9-559018591499
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"

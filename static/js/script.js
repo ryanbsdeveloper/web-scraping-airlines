@@ -17,7 +17,7 @@ function positionBubble(bubbleElement, anchorElement) {
     const perc = (Number(value) - Number(min)) / total;
     const offset = (thumbWidth / 2) - (thumbWidth * perc);
 
-    bubbleElement.textContent = 'R$ '+value;
+    bubbleElement.textContent = 'R$ ' + value;
 }
 
 rangeInput.addEventListener('input', (e) => positionBubble(rangeBubble, e.target))
@@ -99,7 +99,12 @@ let sortedNames = names.sort();
 let input = document.getElementById("input");
 let input1 = document.getElementById("input1");
 let btn_r = document.getElementById("btn-r")
+let btn_search = document.getElementById("btn-main")
 
+let field_origem = document.getElementById("field-origem")
+let field_destino = document.getElementById("field-destino")
+
+let border_input = document.getElementById("")
 input.addEventListener("keyup", (e) => {
     removeElements();
     for (let i of sortedNames) {
@@ -118,6 +123,7 @@ input.addEventListener("keyup", (e) => {
         }
     }
 });
+let border_input1 = document.getElementById("")
 input1.addEventListener("keyup", (e) => {
     removeElementstwo();
     for (let i of sortedNames) {
@@ -147,12 +153,28 @@ function displayNamestwo(value) {
     removeElementstwo();
 }
 function removeElements() {
+    if (names.indexOf(input.value) == -1) {
+        field_origem.style.border = '1px solid red'
+        btn_search.disabled = true
+    }
+    else {
+        btn_search.disabled = false
+        field_origem.style.border = '1px solid var(--color-gray)'
+    }
     let items = document.querySelectorAll(".list-items");
     items.forEach((item) => {
         item.remove();
     });
 }
 function removeElementstwo() {
+    if (names.indexOf(input1.value) == -1) {
+        field_destino.style.border = '1px solid red'
+        btn_search.disabled = true
+    }
+    else {
+        btn_search.disabled = false
+        field_destino.style.border = '1px solid var(--color-gray)'
+    }
     let items = document.querySelectorAll(".list-items-two");
     items.forEach((item) => {
         item.remove();
@@ -166,3 +188,4 @@ btn_r.addEventListener("click", () => {
     input1.value = aux;
 
 })
+

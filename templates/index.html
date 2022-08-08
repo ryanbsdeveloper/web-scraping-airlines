@@ -12,7 +12,7 @@
     <body> 
         <header>
             <div class='navbar'>
-                    <a class="logo" href="/"><img src="{{ url_for('static', filename='./images/logo.png')}}" alt="logo"></a>
+                <a class="logo" href="{{url_for('index')}}"><img src="{{ url_for('static', filename='./images/logo.png')}}" alt="logo"></a>
             </div>
         </header>
         <form action="{{url_for('loading')}}" method="POST">
@@ -22,13 +22,13 @@
                 <div class="value">
                     <label>Defina um preço limite</label>
                     <label class="custom-range-slider range">
-                        <input type="range" max="5000" min="1000" value="1500" name='preco'>
+                        <input type="range" max="5000" min="1000" value="2000" name='preco'>
                     </label>
                 </div>
                 <div class="from">
                     <div class="input-from">
                         <label>Origem <i class='required'>*</i></label>
-                        <div class='from-field'>
+                        <div class='from-field' id='field-origem'>
                             <i class="fa-solid fa-plane-departure"></i>
                             <input type="text" name="origem" id="input">
                             <ul class="list"></ul>
@@ -38,7 +38,7 @@
                     </button>
                     <div class="input-from">
                         <label>Destino <i class='required'>*</i></label>
-                        <div class="from-field">
+                        <div class="from-field" id='field-destino'>
                             <i class="fa-solid fa-plane-arrival"></i>
                             <input type="text" name="destino" id="input1">
                             <ul class="list-two"></ul>
@@ -61,7 +61,7 @@
                         </div>    
                     </div>
                 </div>
-                <button class="button-scraping" type="submit" >Buscar passagens áreas</button>
+                <button id="btn-main" class="button-scraping" type="submit" >Buscar passagens áreas</button>
             </div>
             {% if erro %}
             <p class="error">

@@ -2,7 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
-import linecache
+from selenium.webdriver.support import events
 
 class Scraping():
     def __init__(self, origin, destiny, date_go, date_back=None) -> None:
@@ -10,9 +10,10 @@ class Scraping():
             self.site = f'https://www.decolar.com/shop/flights/results/roundtrip/{origin}/{destiny}/{date_go}/{date_back}/1/0/0/NA/NA/NA/NA/NA?from=SB&di=1-0&reSearch=true'
         else:
             self.site = f'https://www.decolar.com/shop/flights/results/oneway/{origin}/{destiny}/{date_go}/1/0/0/NA/NA/NA/NA?from=SB&di=1-0'
-        
+
         self.options = webdriver.FirefoxOptions()
-        self.options.add_argument('--headless')
+        self.options.add_argument(r'--incognito') 
+        self.options.add_argument(r'--headless')
         self.driver = webdriver.Firefox(options=self.options)
         self.driver.get(self.site)
         
@@ -29,4 +30,3 @@ class Scraping():
                 else:
                     self.file.write(f'{v}\n')
             self.file.write(f'***\n')
-

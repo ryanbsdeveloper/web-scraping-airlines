@@ -1,8 +1,8 @@
 import linecache
-from time import sleep
 from flask import Flask, request
-from flask import render_template, make_response
+from flask import render_template
 from services import webscraping
+
 app = Flask(__name__)
 
 @app.route('/', methods=['POST'])
@@ -25,43 +25,57 @@ def loading():
         
         return render_template('return.html', form_data=request.form)
 
+
 @app.route('/', methods=['GET', 'POST'])
 def index():
+    try:
+        file = open('aires.txt', 'w')
+    except Exception as e:
+        assert f'Erro ao recriar arquivo.txt, {e}.'
+    finally:
+        file.close()
+
     return render_template('index.html')
+
 
 @app.route('/passagens', methods=['GET', 'POST'])
 def passagens():
     if request.method == 'POST':
-        inputs = request.form.to_dict()['form_data']
-        preco = inputs[43:47]
-        origem = inputs[79:82]
-        destino = inputs[115:118]
-        data_ida = inputs[147:157]
-        data_volta = inputs[188:198]
-        if '&#' in data_ida:
-            data_ida = data_volta
-            data_volta = False
+        try:
+            inputs = request.form.to_dict()['form_data']
+            preco = inputs[43:47]
+            origem = inputs[79:82]
+            destino = inputs[115:118]
+            data_ida = inputs[147:157]
+            data_volta = inputs[188:198]
+            if '&#' in data_ida:
+                data_ida = data_volta
+                data_volta = 'false'
+        except:
+            passagens_achadas = 'false'
 
-        print(preco, origem, destino, data_ida, data_volta)
         try:
             webscraping.Scraping(origem, destino, data_ida, data_volta)
         except:
             passagens_achadas = 'false'
-            
+
         with open('aires.txt', 'r') as file:
             precos = []
             temp = []
             global dados
             dados = []
 
-            data = linecache.getline('aires.txt', 2).replace('\n','')
-            data_volta = ''
-            origem = linecache.getline('aires.txt', 3).replace('\n','')
-            origem_estado = linecache.getline('aires.txt', 4).replace('\n','')
-            destino = linecache.getline('aires.txt', 5).replace('\n','')
-            destino_estado = linecache.getline('aires.txt', 6).replace('\n','')
-            passagens_achadas = 'true'
-            initial = [data, origem, origem_estado, destino, destino_estado]
+            try:
+                data = linecache.getline('aires.txt', 2).replace('\n','')
+                data_volta = ''
+                origem = linecache.getline('aires.txt', 3).replace('\n','')
+                origem_estado = linecache.getline('aires.txt', 4).replace('\n','')
+                destino = linecache.getline('aires.txt', 5).replace('\n','')
+                destino_estado = linecache.getline('aires.txt', 6).replace('\n','')
+                passagens_achadas = 'true'
+                initial = [data, origem, origem_estado, destino, destino_estado]
+            except:
+                passagens_achadas = 'false'
 
             for value in file.readlines():
                 value = value.replace('\n', '')
@@ -73,7 +87,13 @@ def passagens():
                 if value not in initial:
                     if '***' not in value:
                         if 'R$' in value:
-                            precos.append(value.replace('R$', ''))
+                            valor = value.replace('R$', '').replace('.', '')
+                            if int(valor) <= int(preco):
+                                precos.append(valor)
+                            else:
+                                precos.clear()
+                                temp.clear()
+                                continue
                         else:
                             if '.' in value:
                                 data_volta = value
@@ -84,10 +104,16 @@ def passagens():
                         temp.clear()
                         precos.clear()
 
+            try:
+                if not dados[0][0]:pass
+            except:
+                passagens_achadas = 'false'
+            else:
+                pass
+
             global dados_passagem
             dados_passagem = {
                 'passagens_achadas': passagens_achadas,
-                'ida_e_volta': data_volta, 
                 'data_volta': data_volta,
                 'data': data,
                 'origem': origem,
@@ -97,10 +123,11 @@ def passagens():
                 'passagens': dados
             }
 
-        return render_template('tickets.html')
+        return render_template('tickets.html', dados=dados_passagem)
 
     elif request.method == 'GET':
         return render_template('tickets.html', dados=dados_passagem, passagens=dados)
+
 
 if __name__ == '__main__':
     app.run(debug=True)

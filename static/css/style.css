@@ -29,11 +29,14 @@
     font-family: 'Montserrat';
     margin: 0;
 }
-
+html{
+    min-width: 47em;
+}
 body {
     background-color: var(--color-background);
-    height: 100vh;
+    height: 100%;
     margin: 0;
+    min-width: 47em;
 }
 
 footer {
@@ -58,11 +61,17 @@ header {
     gap: 2em;
     color: var(--color-white);
 }
-
+.style-gray{
+    color: var(--color-gray-more);
+}
+.style-white{
+    color: var(--color-white);
+}
 .container-main {
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: center;
     gap: 1em;
     min-height: 38em;
 }
@@ -322,7 +331,6 @@ input[type="date"] {
 
 .footer-datas {
     display: flex;
-    flex-wrap: wrap;
     justify-content: space-around;
     grid-gap: 2em;
 }
