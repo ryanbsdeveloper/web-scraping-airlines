@@ -16,6 +16,7 @@ Utilizando **web Scraping** para coleta de dados, exibe passagens áereas de aco
 
 ##### Tecnologias utilizadas:
 
+- **Python**
 - **Flask**
 - **Selenium**
 - AWS **(Elastic beanstalk)**
