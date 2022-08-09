@@ -134,4 +134,5 @@ def passagens():
         return render_template('tickets.html', dados=dados_passagem, passagens=dados)
 
 
-application.run()
+if __name__ == '__main__':
+    application.run(port='5000')

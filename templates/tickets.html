@@ -15,130 +15,131 @@
                 <a class="logo" href="{{url_for('index')}}"><img src="{{ url_for('static', filename='./images/logo.png')}}" alt="logo"></a>
             </div>
         </header>
-        <form method="post">
         <div class="container-main">
-            {% if dados.passagens_achadas != 'false' %}
-                <h1 class='subtitle-page'> Resultados da sua busca</h1>
-                {% for passagem in passagens %}
-                    {% if passagem[0] %}
-                        <div class='box-main'>
-                            <div class='content-tickets'>
-                                <div class='box-from'>
-                                    <span class='from-datas distac'>
-                                        <div class='go-back'>
-                                            <i class="fa-solid fa-plane ida"></i> 
-                                            <p>{{ passagem[0] }}</p>
-                                        </div>
-                                        <p>{{ dados.data }}</p>
-                                    </span>
-                                    <span class='from-datas'>
-                                        <i>{{ dados.origem }}</i> 
-                                        <p>{{ dados.origem_estado }}</p>
-                                    </span>
-                                    <span class='from-datas'>
-                                        <i>{{ dados.destino }}</i> 
-                                        <p>{{ dados.destino_estado }}</p>
-                                    </span>
-                                </div>
-                                <div class='box-content'>
-                                    <div>
-                                        <h4>Opção de IDA</h4> <h5 class='more-options'>Mais opções no site da companhia áerea</h5>
-                                    </div>
-                                    <div class="box-flights-from">
-                                        <span class='flights-data'>
-                                            {% if passagem[1] == 'LATAM' %}
-                                                <img src="{{url_for('static', filename='images/latam.png')}}" alt="{{ passagem[1] }}">
-                                            {% elif passagem[1] == 'Azul' %}
-                                                <img src="{{url_for('static', filename='images/azul.png')}}" alt="{{ passagem[1] }}">
-                                            {% elif passagem[1] == 'Gol' %}
-                                                <img src="{{url_for('static', filename='images/gol.png')}}" alt="{{ passagem[1] }}">
-                                            {% elif passagem[1] == 'Avianca' %}
-                                                <img src="{{url_for('static', filename='images/avianca.png')}}" alt="{{ passagem[1] }}">
-                                            {% endif %} 
-                                        </span>
-                                        <span class='flights-data'>
-                                            <p class='flights-hour'>{{ passagem[2] }}</p> <p class='state-flight'>{{ passagem[3] }}</p>
-                                        </span>
-                                        <span class='flights-data'>
-                                            <p class='flights-hour'>{{ passagem[4] }}</p> <p class='time-flight'>{{ passagem[5] }}</p>
-                                        </span>
-                                    </div>
-                                </div>
-                                {% if dados.data_volta %}
+            <form method="POST">
+                {% if dados.passagens_achadas != 'false' %}
+                    <h1 class='subtitle-page'> Resultados da sua busca</h1>
+                    {% for passagem in passagens %}
+                        {% if passagem[0] %}
+                            <div class='box-main'>
+                                <div class='content-tickets'>
                                     <div class='box-from'>
                                         <span class='from-datas distac'>
                                             <div class='go-back'>
-                                                <i class="fa-solid fa-plane invert" > </i>
-                                                <p> VOLTA</p>
+                                                <i class="fa-solid fa-plane ida"></i> 
+                                                <p>{{ passagem[0] }}</p>
                                             </div>
-                                            <p>{{ dados.data_volta }}</p>
+                                            <p>{{ dados.data }}</p>
                                         </span>
                                         <span class='from-datas'>
-                                            <i> {{ dados.destino }}</i> 
-                                            <p>{{ dados.destino_estado }}</p>
-                                        </span>
-                                        <span class='from-datas'>
-                                            <i> {{ dados.origem }} </i> 
+                                            <i>{{ dados.origem }}</i> 
                                             <p>{{ dados.origem_estado }}</p>
+                                        </span>
+                                        <span class='from-datas'>
+                                            <i>{{ dados.destino }}</i> 
+                                            <p>{{ dados.destino_estado }}</p>
                                         </span>
                                     </div>
                                     <div class='box-content'>
                                         <div>
-                                            <h4>Opção de VOLTA</h4> <h5 class='more-options'>Mais opções no site da companhia áerea</h5>
+                                            <h4>Opção de IDA</h4> <h5 class='more-options'>Mais opções no site da companhia áerea</h5>
                                         </div>
                                         <div class="box-flights-from">
                                             <span class='flights-data'>
-                                            {% if passagem[-6] == 'LATAM' %}
-                                                <img src="{{url_for('static', filename='images/latam.png')}}" alt="{{ passagem[-6] }}">
-                                            {% elif passagem[-6] == 'Azul' %}
-                                                <img src="{{url_for('static', filename='images/azul.png')}}" alt="{{ passagem[-6] }}">
-                                            {% elif passagem[-6] == 'Gol' %}
-                                                <img src="{{url_for('static', filename='images/gol.png')}}" alt="{{ passagem[-6] }}">
-                                            {% elif passagem[-6] == 'Avianca' %}
-                                                <img src="{{url_for('static', filename='images/avianca.png')}}" alt="{{ passagem[-6] }}">
-                                            {% endif %} 
+                                                {% if passagem[1] == 'LATAM' %}
+                                                    <img src="{{url_for('static', filename='images/latam.png')}}" alt="{{ passagem[1] }}">
+                                                {% elif passagem[1] == 'Azul' %}
+                                                    <img src="{{url_for('static', filename='images/azul.png')}}" alt="{{ passagem[1] }}">
+                                                {% elif passagem[1] == 'Gol' %}
+                                                    <img src="{{url_for('static', filename='images/gol.png')}}" alt="{{ passagem[1] }}">
+                                                {% elif passagem[1] == 'Avianca' %}
+                                                    <img src="{{url_for('static', filename='images/avianca.png')}}" alt="{{ passagem[1] }}">
+                                                {% endif %} 
                                             </span>
                                             <span class='flights-data'>
-                                                <p class='flights-hour'>{{ passagem[-5] }}</p> <p class='state-flight'>{{ passagem[-4] }}</p>
+                                                <p class='flights-hour'>{{ passagem[2] }}</p> <p class='state-flight'>{{ passagem[3] }}</p>
                                             </span>
                                             <span class='flights-data'>
-                                                <p class='flights-hour'>{{ passagem[-3] }}</p> <p class='time-flight'>{{ passagem[-2] }}</p>
+                                                <p class='flights-hour'>{{ passagem[4] }}</p> <p class='time-flight'>{{ passagem[5] }}</p>
                                             </span>
                                         </div>
                                     </div>
-                                {% endif %}
-                                <p>Para mais informações das passagens acesse o site da companhia aérea</p>
+                                    {% if '20' in dados.data_volta %}
+                                        <div class='box-from'>
+                                            <span class='from-datas distac'>
+                                                <div class='go-back'>
+                                                    <i class="fa-solid fa-plane invert" > </i>
+                                                    <p> VOLTA</p>
+                                                </div>
+                                                <p>{{ dados.data_volta }}</p>
+                                            </span>
+                                            <span class='from-datas'>
+                                                <i> {{ dados.destino }}</i> 
+                                                <p>{{ dados.destino_estado }}</p>
+                                            </span>
+                                            <span class='from-datas'>
+                                                <i> {{ dados.origem }} </i> 
+                                                <p>{{ dados.origem_estado }}</p>
+                                            </span>
+                                        </div>
+                                        <div class='box-content'>
+                                            <div>
+                                                <h4>Opção de VOLTA</h4> <h5 class='more-options'>Mais opções no site da companhia áerea</h5>
+                                            </div>
+                                            <div class="box-flights-from">
+                                                <span class='flights-data'>
+                                                {% if passagem[-6] == 'LATAM' %}
+                                                    <img src="{{url_for('static', filename='images/latam.png')}}" alt="{{ passagem[-6] }}">
+                                                {% elif passagem[-6] == 'Azul' %}
+                                                    <img src="{{url_for('static', filename='images/azul.png')}}" alt="{{ passagem[-6] }}">
+                                                {% elif passagem[-6] == 'Gol' %}
+                                                    <img src="{{url_for('static', filename='images/gol.png')}}" alt="{{ passagem[-6] }}">
+                                                {% elif passagem[-6] == 'Avianca' %}
+                                                    <img src="{{url_for('static', filename='images/avianca.png')}}" alt="{{ passagem[-6] }}">
+                                                {% endif %} 
+                                                </span>
+                                                <span class='flights-data'>
+                                                    <p class='flights-hour'>{{ passagem[-5] }}</p> <p class='state-flight'>{{ passagem[-4] }}</p>
+                                                </span>
+                                                <span class='flights-data'>
+                                                    <p class='flights-hour'>{{ passagem[-3] }}</p> <p class='time-flight'>{{ passagem[-2] }}</p>
+                                                </span>
+                                            </div>
+                                        </div>
+                                    {% endif %}
+                                    <p>Para mais informações das passagens acesse o site da companhia aérea</p>
+                                </div>
+                                <div class="box-values">
+                                    <span class="value-one">
+                                        <h3>Preço por adulto</h3>
+                                        <h4><i>R$</i> {{ passagem[-1][0] }}</h4>
+                                    </span>
+                                    <span class="taxas">
+                                        <span class="element-taxa">
+                                            <p>1 Adulto</p> <p>R$ {{ passagem[-1][1] }}</p>
+                                        </span>
+                                    </span>
+                                    <span class="taxas">
+                                        <span class="element-taxa">
+                                            <p>Impostos e taxas</p> <p>R$ {{ passagem[-1][2] }}</p>
+                                        </span>
+                                    </span>
+                                    <hr class='line-value'>
+                                    <span class="value-final">
+                                        <p>Preço final</p> <p class='larger'><i>R$</i> {{ passagem[-1][3] }}</p>
+                                    </span>
+                                </div>
                             </div>
-                            <div class="box-values">
-                            <span class="value-one">
-                                <h3>Preço por adulto</h3>
-                                <h4><i>R$</i> {{ passagem[-1][0] }}</h4>
-                            </span>
-                            <span class="taxas">
-                                <span class="element-taxa">
-                                    <p>1 Adulto</p> <p>R$ {{ passagem[-1][1] }}</p>
-                                </span>
-                            </span>
-                            <span class="taxas">
-                                <span class="element-taxa">
-                                    <p>Impostos e taxas</p> <p>R$ {{ passagem[-1][2] }}</p>
-                                </span>
-                            </span>
-                            <hr class='line-value'>
-                            <span class="value-final">
-                                <p>Preço final</p> <p class='larger'><i>R$</i> {{ passagem[-1][3] }}</p>
-                            </span>
-                        </div>
-                    {% endif %}
-                {% endfor %}
-            {% else %}
-                <img src="{{ url_for('static', filename='./images/empty.png')}}" alt="Sem resultado">
-                <h1 class='subtitle-page'>Desculpe-nos não conseguimos fazer a filtragem.</h1>
-                <h3 class='style-gray'>Tente novamente com outros filtros.</h3>
-                <button class="button-scraping" type="submit" ><a href="{{url_for('index')}}" class='style-white'> Fazer uma nova busca </a></button>
-            {% endif %}
+                        {% endif %}
+                    {% endfor %}
+                {% else %}
+                    <img src="{{ url_for('static', filename='./images/empty.png')}}" alt="Sem resultado">
+                    <h1 class='subtitle-page'>Desculpe-nos não conseguimos fazer a filtragem.</h1>
+                    <h3 class='style-gray'>Tente novamente com outros filtros.</h3>
+                    <button class="button-scraping" type="submit" ><a href="{{url_for('index')}}" class='style-white'> Fazer uma nova busca </a></button>
+                {% endif %}
+            </form>
         </div>
-        </form>
         <footer>
             <div class="footer-datas">
                 <div class="footer-links">
@@ -155,5 +156,5 @@
         </footer>
     <script src="https://kit.fontawesome.com/5fc40ce3b8.js" crossorigin="anonymous"></script>
     <script src="{{url_for('static', filename='js/script.js')}}"></script>
-</body>
+    </body>
 </html>
