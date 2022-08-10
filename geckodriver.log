@@ -1,0 +1,22 @@
+1660152406139	geckodriver	INFO	Listening on 127.0.0.1:56411
+1660152406472	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "59487" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesepllm"
+*** You are running in headless mode.
+1660152406810	Marionette	INFO	Marionette enabled
+1660152406814	Marionette	INFO	Listening on port 34909
+WebDriver BiDi listening on ws://localhost:59487
+Read port: 34909
+1660152406929	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesepllm/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:59487/devtools/browser/e6abac65-732d-4e5b-9916-c97372c3d6c4
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://securegtm.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.decolar.com"
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DGCvT-nfUO_IqA_cAEgHI9RDpG7IWcgQjTpWlJPkZjY.js line 2 > eval line 1189 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.

@@ -1,8 +1,11 @@
+from pathlib import Path
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support import events
+
+BASEDIR = Path(__file__).resolve().parent
 
 class Scraping():
     def __init__(self, origin, destiny, date_go, date_back=None) -> None:
@@ -11,10 +14,9 @@ class Scraping():
         else:
             self.site = f'https://www.decolar.com/shop/flights/results/oneway/{origin}/{destiny}/{date_go}/1/0/0/NA/NA/NA/NA?from=SB&di=1-0'
 
-        self.options = webdriver.FirefoxOptions()
-        self.options.add_argument(r'--incognito') 
-        self.options.add_argument(r'--headless')
-        self.driver = webdriver.Firefox(options=self.options)
+        self.options = webdriver.ChromeOptions()
+        # self.options.add_argument(r'--headless')
+        self.driver = webdriver.Chrome(f'{BASEDIR}/chromedriver', options=self.options)
         self.driver.get(self.site)
         
         self.element = WebDriverWait(self.driver, 20).until(EC.visibility_of_all_elements_located((By.CLASS_NAME, 'cluster-container')))
@@ -31,3 +33,5 @@ class Scraping():
                     self.file.write(f'{v}\n')
             self.file.write(f'***\n')
 
+
+Scraping('GRU', 'SSA', '2022-09-09')
