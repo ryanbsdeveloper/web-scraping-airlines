@@ -135,4 +135,5 @@ def passagens():
 
 
 if __name__ == '__main__':
-    application.run(port='5000')
+    application.debug = True
+    application.run(port=8000)
