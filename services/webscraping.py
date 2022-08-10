@@ -1,10 +1,10 @@
 from pathlib import Path
 from selenium import webdriver
+from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.support import events
 
 BASEDIR = Path(__file__).resolve().parent
 
@@ -16,8 +16,8 @@ class Scraping():
             self.site = f'https://www.decolar.com/shop/flights/results/oneway/{origin}/{destiny}/{date_go}/1/0/0/NA/NA/NA/NA?from=SB&di=1-0'
 
         self.options = webdriver.ChromeOptions()
-        self.options.add_argument(r'--headless')
-        self.service = Service(f'{BASEDIR}/chromedriver')
+        # self.options.add_argument(r'--headless')
+        self.service = Service(executable_path=ChromeDriverManager().install())
         self.driver = webdriver.Chrome(service=self.service, options=self.options)
         self.driver.get(self.site)
         

@@ -1,0 +1,412 @@
+IDA
+qui. 11 ago. 2022
+GRU
+São Paulo
+SSA
+Salvador
+LATAM
+11:30
+Direto
+13:40
+2h 10m
+LATAM
+12:10
+Direto
+14:25
+2h 15m
+LATAM
+17:55
+Direto
+20:10
+2h 15m
+VOLTA
+qui. 18 ago. 2022
+SSA
+Salvador
+GRU
+São Paulo
+LATAM
+04:30
+Direto
+07:00
+2h 30m
+R$1.547
+R$1.547
+R$231
+R$1.778
+***
+IDA
+qui. 11 ago. 2022
+GRU
+São Paulo
+SSA
+Salvador
+LATAM
+11:30
+Direto
+13:40
+2h 10m
+LATAM
+12:10
+Direto
+14:25
+2h 15m
+LATAM
+17:55
+Direto
+20:10
+2h 15m
+VOLTA
+qui. 18 ago. 2022
+SSA
+Salvador
+GRU
+São Paulo
+LATAM
+11:25
+Direto
+13:45
+2h 20m
+LATAM
+14:15
+Direto
+16:45
+2h 30m
+LATAM
+15:10
+Direto
+17:40
+2h 30m
+LATAM
+20:55
+Direto
+23:20
+2h 25m
+R$1.774
+R$1.774
+R$253
+R$2.027
+***
+IDA
+qui. 11 ago. 2022
+GRU
+São Paulo
+SSA
+Salvador
+Azul
+05:00
+1 parada
+13:55
+8h 55m
+Azul
+14:55
+1 parada
+18:45
+3h 50m
+VOLTA
+qui. 18 ago. 2022
+SSA
+Salvador
+GRU
+São Paulo
+Azul
+04:40
+1 parada
+09:15
+4h 35m
+Azul
+10:40
+1 parada
+16:45
+6h 5m
+Azul
+11:45
+1 parada
+18:45
+7h
+Azul
+15:15
+1 parada
+00:15
++1
+9h
+R$2.202
+R$2.202
+R$296
+R$2.498
+***
+IDA
+qui. 11 ago. 2022
+GRU
+São Paulo
+SSA
+Salvador
+LATAM
+11:30
+Direto
+13:40
+2h 10m
+LATAM
+12:10
+Direto
+14:25
+2h 15m
+VOLTA
+qui. 18 ago. 2022
+SSA
+Salvador
+GRU
+São Paulo
+LATAM
+04:30
+Direto
+07:00
+2h 30m
+R$1.780
+R$1.780
+R$254
+R$2.034
+***
+IDA
+qui. 11 ago. 2022
+GRU
+São Paulo
+SSA
+Salvador
+LATAM
+17:55
+Direto
+20:10
+2h 15m
+VOLTA
+qui. 18 ago. 2022
+SSA
+Salvador
+GRU
+São Paulo
+LATAM
+04:30
+Direto
+07:00
+2h 30m
+R$1.780
+R$1.780
+R$254
+R$2.034
+***
+IDA
+qui. 11 ago. 2022
+GRU
+São Paulo
+SSA
+Salvador
+LATAM
+11:30
+Direto
+13:40
+2h 10m
+LATAM
+12:10
+Direto
+14:25
+2h 15m
+LATAM
+17:55
+Direto
+20:10
+2h 15m
+VOLTA
+qui. 18 ago. 2022
+SSA
+Salvador
+GRU
+São Paulo
+LATAM
+04:30
+Direto
+07:00
+2h 30m
+R$1.825
+R$1.825
+R$259
+R$2.084
+***
+IDA
+qui. 11 ago. 2022
+GRU
+São Paulo
+SSA
+Salvador
+LATAM
+11:30
+Direto
+13:40
+2h 10m
+LATAM
+12:10
+Direto
+14:25
+2h 15m
+VOLTA
+qui. 18 ago. 2022
+SSA
+Salvador
+GRU
+São Paulo
+LATAM
+11:25
+Direto
+13:45
+2h 20m
+LATAM
+14:15
+Direto
+16:45
+2h 30m
+LATAM
+15:10
+Direto
+17:40
+2h 30m
+LATAM
+20:55
+Direto
+23:20
+2h 25m
+R$2.074
+R$2.074
+R$283
+R$2.357
+***
+IDA
+qui. 11 ago. 2022
+GRU
+São Paulo
+SSA
+Salvador
+LATAM
+17:55
+Direto
+20:10
+2h 15m
+VOLTA
+qui. 18 ago. 2022
+SSA
+Salvador
+GRU
+São Paulo
+LATAM
+11:25
+Direto
+13:45
+2h 20m
+LATAM
+14:15
+Direto
+16:45
+2h 30m
+LATAM
+15:10
+Direto
+17:40
+2h 30m
+LATAM
+20:55
+Direto
+23:20
+2h 25m
+R$2.074
+R$2.074
+R$283
+R$2.357
+***
+IDA
+qui. 11 ago. 2022
+GRU
+São Paulo
+SSA
+Salvador
+LATAM
+11:30
+Direto
+13:40
+2h 10m
+LATAM
+12:10
+Direto
+14:25
+2h 15m
+LATAM
+17:55
+Direto
+20:10
+2h 15m
+VOLTA
+qui. 18 ago. 2022
+SSA
+Salvador
+GRU
+São Paulo
+LATAM
+11:25
+Direto
+13:45
+2h 20m
+LATAM
+14:15
+Direto
+16:45
+2h 30m
+LATAM
+15:10
+Direto
+17:40
+2h 30m
+R$2.124
+R$2.124
+R$288
+R$2.412
+***
+IDA
+qui. 11 ago. 2022
+GRU
+São Paulo
+SSA
+Salvador
+LATAM
+11:30
+Direto
+13:40
+2h 10m
+LATAM
+12:10
+Direto
+14:25
+2h 15m
+LATAM
+17:55
+Direto
+20:10
+2h 15m
+VOLTA
+qui. 18 ago. 2022
+SSA
+Salvador
+GRU
+São Paulo
+LATAM
+12:25
+1 parada
+23:00
+10h 35m
+LATAM
+19:50
+1 parada
+07:50
++1
+12h
+R$1.679
+R$1.679
+R$244
+R$1.923
+***
