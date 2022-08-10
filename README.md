@@ -4,16 +4,13 @@
 
 # Air tickets ✈️
 
-### Acesse agora
-
-Faça você mesmo uma pesquisa de passagens áreas, [clique aqui](http://airlinetickets-env.eba-y6ss329p.us-east-1.elasticbeanstalk.com/).
-
 ### Sobre
 
 Utilizando **web Scraping** para coleta de dados, exibe passagens áereas de acordo com a sua necessidade.
 
 ### Desenvolvimento
-
+  Usando selenium para a coleta de dados, e faço a filtragem para retorno.
+  
 ##### Tecnologias utilizadas:
 
 - **Python**
