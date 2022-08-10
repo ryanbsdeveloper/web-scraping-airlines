@@ -15,7 +15,7 @@ class Scraping():
             self.site = f'https://www.decolar.com/shop/flights/results/oneway/{origin}/{destiny}/{date_go}/1/0/0/NA/NA/NA/NA?from=SB&di=1-0'
 
         self.options = webdriver.ChromeOptions()
-        # self.options.add_argument(r'--headless')
+        self.options.add_argument(r'--headless')
         self.driver = webdriver.Chrome(f'{BASEDIR}/chromedriver', options=self.options)
         self.driver.get(self.site)
         
@@ -34,4 +34,3 @@ class Scraping():
             self.file.write(f'***\n')
 
 
-Scraping('GRU', 'SSA', '2022-09-09')
