@@ -54,10 +54,10 @@ def passagens():
         except:
             passagens_achadas = 'false'
 
-        try:
-            webscraping.Scraping(origem, destino, data_ida, data_volta)
-        except:
-            passagens_achadas = 'false'
+        # try:
+        webscraping.Scraping(origem, destino, data_ida, data_volta)
+        # except:
+        #     passagens_achadas = 'false'
 
         with open('aires.txt', 'r') as file:
             precos = []

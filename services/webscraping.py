@@ -1,5 +1,6 @@
 from pathlib import Path
 from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
@@ -16,7 +17,8 @@ class Scraping():
 
         self.options = webdriver.ChromeOptions()
         self.options.add_argument(r'--headless')
-        self.driver = webdriver.Chrome(f'{BASEDIR}/chromedriver', options=self.options)
+        self.service = Service(f'{BASEDIR}/chromedriver')
+        self.driver = webdriver.Chrome(service=self.service, options=self.options)
         self.driver.get(self.site)
         
         self.element = WebDriverWait(self.driver, 20).until(EC.visibility_of_all_elements_located((By.CLASS_NAME, 'cluster-container')))
